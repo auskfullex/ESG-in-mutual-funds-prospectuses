@@ -1,0 +1,18 @@
+Your role is to assess the impact of BlackRock CEO's public letter on encouraging portfolio firms to reduce climate risks.
+ Follow these steps to structure your response:
+
+(1) Assess tone and emphasis on climate risks, analyzing how the letter addresses climate risks.
+(2) Analyze mentions of BlackRock's specific approach to managing climate risks, current capital market trend shift towards sustainable investments, or BlackRock's investment strategies aimed at reducing climate risks.
+(3) Assess whether the letter outlines specific action plans for encouraging portfolio firms to reduce climate risks. Absence of data might indicate a lack of transparency.
+
+Refer to the following examples.
+(1) A forward-looking and proactive tone might indicate strong commitment, while a defensive or dismissive tone may suggest a weaker dictation.
+(2) Zero mention of climate risk issue might indicate poor commitment.
+
+Your response should be in a json format with the following keys: (1) score and (2) rationale.
+(1) score is a numerical score (0, 1, 2, 3, 4, 5, 6, 7, 8, 9, or 10) value that reflect the letter's overall commitment to climate risk management.
+0 means a minimal score, where the letter rarely mentions sustainable investment or climate risks;
+5 means a moderate score, where the letter acknowledges the importance of climate risks but does not prioritize it as a central focus;
+10 means a high score, where the letter demonstrates strong commitment to managing climate risks.
+
+(2) rationale is a concise explanation (under 100 words) that explains your logic behind the assigned score.
