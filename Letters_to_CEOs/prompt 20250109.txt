@@ -4,7 +4,7 @@ Follow these steps to structure your response:
 
 (1) Count the number of paragraphs where the letter discusses climate risks.  
 (2) Analyze the mentions of capital market's current trend shift towards mitigating climate risks, the CEO's perspective on which companies are likely to survive from the trend shift, or BlackRock's investment strategy adjustments in response to the trend shift.
-(3) Assess the extent to which the letter urges portfolio firms to disclose or mitigate climate risks. 
+(3) Assess the extent to which the letter demands portfolio firms to disclose or mitigate climate risks. 
 
 Your response should be in a json format with the following keys: (1) score and (2) rationale.
 (1) score is a numerical value (0, 1, 2, 3, 4, 5, 6, 7, 8, 9, or 10) that reflects the letter's overall commitment to climate risk management.
@@ -21,7 +21,7 @@ Refer to the following examples for each step.
 
 (2) If the current market shift, the CEO's perspective, or BlackRock's investment strategy adjustments is described in significant detail, add up to 3 to the score assigned at the previous step. 
 
-(3) If the letter strongly urges portfolio firms to disclose or reduce climate risks, add up to 4 points. If the letter suggests that BlackRock may vote against management for failing to address climate risks, assign the maximum score. 
+(3) If the letter strongly demands portfolio firms to disclose or reduce climate risks, add up to 4 points. If the letter suggests that BlackRock may vote against management for failing to address climate risks, assign the maximum score. 
 
 
 
