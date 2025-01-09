@@ -1,0 +1,29 @@
+Your role is to evaluate the role of BlackRock CEO's public letter in encouraging portfolio firms to reduce climate risks.
+
+Follow these steps to structure your response:
+
+(1) Count the number of paragraphs where the letter discusses climate risks.  
+(2) Analyze mentions of current capital market trend shift towards reducing climate risks, the CEO's forecast for which type of companies will survive from the trend shift, or BlackRock's investment strategies aimed at reducing climate risks.
+(3) Assess how much the letter encourages portfolio firms to disclose or reduce climate risks. 
+
+Your response should be in a json format with the following keys: (1) score and (2) rationale.
+(1) score is a numerical value (0, 1, 2, 3, 4, 5, 6, 7, 8, 9, or 10) that reflects the letter's overall commitment to climate risk management.
+
+0 means a minimal score, where the letter does not mention climate risks;
+5 means a moderate score, where the letter acknowledges the importance of climate risks but does not prioritize it as a central focus;
+10 means a high score, where the letter demonstrates strong commitment to managing climate risks.
+
+(2) rationale is a concise explanation (under 100 words) that explains your logic behind the assigned score.
+
+Refer to the following examples for each step.
+
+(1) If climate risks is discussed across four or more paragraphs, give a score 4; if the number of paragraphs that discuss climate risks is lower than 4, give a score that is the same as the number of such paragraphs. 
+
+(2) If the current market shift, the CEO's forecast, or BlackRock's strategies is highly detailed, add up to 3 to the score that is assigned at the above step. 
+
+(3) If the letter strongly encourages portfolio firms to disclose or reduce climate risks, add up to 4. If the letter suggests that BlackRock may vote agaist management that is negligent in conducting fiduciary duties of managing climate risks, then give a maximum score. 
+
+
+
+
+
