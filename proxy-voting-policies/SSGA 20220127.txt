@@ -1,0 +1,442 @@
+Proxy Voting and Engagement Guidelines
+ 		 	
+State Street Global Advisors’ North America Proxy Voting and Engagement Guidelines1 outline our expectations of companies listed on stock exchanges in the US and Canada. These Guidelines complement and should be read in conjunction with State Street Global Advisors’ Global Proxy Voting and Engagement Principles, which provide a detailed explanation of our approach to voting and engaging with companies, and State Street Global Advisors’ Conflict Mitigation Guidance.
+
+
+
+State Street Global Advisors’ North America Proxy Voting and Engagement Guidelines address areas, including board structure, director tenure, audit related issues, capital structure, executive compensation, as well as environmental, social, and other governance-related issues of companies listed on stock exchanges in the US and Canada (“North America”).
+
+ 		 	When voting and engaging with companies in global markets, we consider market specific nuances in the manner that we believe will most likely protect and promote the long-term economic value of client investments. We expect companies to observe the relevant laws and regulations of their respective markets, as well as country specific best practice guidelines and corporate governance codes. When we feel that a country’s regulatory requirements do not address some of the key philosophical principles that we believe are fundamental to its global voting guidelines, we may hold companies in such markets to our global standards.
+ 
+
+ 		 	
+In its analysis and research about corporate governance issues in North America, we expect all companies to act in a transparent manner and to provide detailed disclosure on board profiles, related-party transactions, executive compensation, and other governance issues that impact shareholders’ long-term interests. Further, as a founding member of the Investor Stewardship Group (“ISG”), we proactively monitor companies’ adherence to the Corporate Governance Principles for US listed companies. Consistent with the “comply-or-explain” expectations established by the principles, we encourage companies to proactively disclose their level of compliance with the principles. In instances of non-compliance when companies cannot explain the nuances of their governance structure effectively, either publicly or through engagement, we may vote against the independent board leader.
+
+State Street Global Advisors’ Proxy Voting and Engagement Philosophy	 		 	Corporate governance and sustainability issues are an integral part of the investment process. The Asset Stewardship Team consists of investment professionals with expertise in corporate governance and company law, remuneration, accounting, and environmental and social issues. We have established robust corporate governance principles and practices that are backed with extensive analytical expertise to understand the complexities of the corporate governance landscape. We engage with companies to provide insight on the principles and practices that drive our voting decisions. We also conduct proactive engagements to address significant shareholder concerns and environmental, social, and governance (“ESG”) issues in a manner consistent with maximizing shareholder value.
+ 		 	The team works alongside members of State Street Global Advisors’ Active Fundamental and various other investment teams, collaborating on issuer engagements and providing input on company specific fundamentals. We are also a member of various investor associations that seek to address broader corporate governance related policy issues in North America.
+ 		 	State Street Global Advisors is a signatory to the United Nations Principles of Responsible Investment (“UNPRI”) and is compliant with the US Investor Stewardship Group Principles. We are committed to sustainable investing and are working to further integrate ESG principles into investment and corporate governance practices, where applicable and consistent with our fiduciary duty.
+
+Directors and Boards
+
+ 		 	
+ 
+
+ 
+
+Principally, we believe the primary responsibility of the board of directors is to preserve and enhance shareholder value and protect shareholder interests. In order to carry out their primary responsibilities, directors have to undertake activities that range from setting strategy and overseeing executive management to monitoring the risks that arise from a company’s business, including risks related to sustainability issues. Further, good corporate governance necessitates the existence of effective internal controls and risk management systems, which should be governed by the board.
+
+ 		 	State Street Global Advisors believes that a well constituted board of directors, with a balance of skills, expertise, and independence, provides the foundations for a well governed company. We view board quality as a measure of director independence, director succession planning, board diversity, evaluations and refreshment, and company governance practices. We vote for the election/re-election of directors on a case-by-case basis after considering various factors, including board quality, general market practice, and availability of information on director skills and expertise. In principle, we believe independent directors are crucial to robust corporate governance and help management establish sound corporate governance policies and practices. A sufficiently independent board will most effectively monitor management and perform oversight functions necessary to protect shareholder interests.
+ 		 	Director-related proposals include issues submitted to shareholders that deal with the composition of the board or with members of a corporation’s board of directors. In deciding the director nominee to support, we consider numerous factors.
+ 		 	Director Elections
+ 		 	Our director election guideline focuses on companies’ governance profile to identify if a company demonstrates appropriate governance practices or if it exhibits negative governance practices. Factors we consider when evaluating governance practices include, but are not limited to the following:
+ 		 	
+•   Shareholder rights
+
+ 		 	
+•   Board independence
+
+ 		 	
+•   Board structure
+
+ 		 	If a company demonstrates appropriate governance practices, we believe a director should be classified as independent based upon the relevant listing standards or local market practice standards. In such cases, the composition of the key oversight committees of a board should meet the minimum standards of independence. Accordingly, we will vote against a nominee at a company with appropriate governance practices if the director is classified as non-independent under relevant listing standards or local market practice and serves on a key committee of the board (compensation, audit, nominating, or committees required to be fully independent by local market standards).
+
+Conversely, if a company demonstrates negative governance practices, State Street Global Advisors believes the classification standards for director independence should be elevated. In such circumstances, we will evaluate all director nominees based upon the following classification standards:
+
+ 		 	
+•   Is the nominee an employee of or related to an employee of the issuer or its auditor?
+
+ 		 	
+•   Does the nominee provide professional services to the issuer?
+
+ 		 	
+•   Has the nominee attended an appropriate number of board meetings?
+
+ 		 	
+•   Has the nominee received non-board related compensation from the issuer?
+
+ 		 	In the US market where companies demonstrate negative governance practices, these stricter standards will apply not only to directors who are a member of a key committee but to all directors on the board as market practice permits. Accordingly, we will vote against a nominee (with the exception of the CEO) where the board has inappropriate governance practices and is considered not independent based on the above independence criteria.
+ 		 	Additionally, we may withhold votes from directors based on the following:
+ 		 	
+•   Overall average board tenure is excessive. In assessing excessive tenure, we consider factors such as the preponderance of long tenured directors, board refreshment practices, and classified board structures
+
+ 		 	
+•   Directors attend less than 75% of board meetings without appropriate explanation or providing reason for their failure to meet the attendance threshold
+
+ 		 	
+•   NEOs of a public company who sit on more than two public company boards*
+
+ 		 	
+•   Board chairs or lead independent directors who sit on more than three public company boards*
+
+ 		 	
+•   Director nominees who sit on more than four public company boards*
+
+ 		 	
+•   Directors of companies that have not been responsive to a shareholder proposal that received a majority shareholder support at the last annual or special meeting
+
+ 		 	
+•   Consideration can be warranted if management submits the proposal(s) on the ballot as a binding management proposal, recommending shareholders vote for the particular proposal(s)
+
+ 		 	
+•   Directors of companies have unilaterally adopted/ amended company bylaws that negatively impact our shareholder rights (such as fee-shifting, forum selection, and exclusion service bylaws) without putting such amendments to a shareholder vote
+
+ 		 	
+•   Compensation committee members where there is a weak relationship between executive pay and performance over a five-year period
+
+ Audit committee members if non-audit fees exceed 50% of total fees paid to the auditors
+
+ 		 	
+•   Directors who appear to have been remiss in their duties
+
+ 		 	Further, we expect boards of Russell 3000 and TSX listed companies to have at least one female board member. If a company fails to meet this expectation, SSGA may vote against the Chair of the board’s nominating committee or the board leader in the absence of a nominating committee, if necessary. Additionally, if a company fails to meet this expectation for three consecutive years, SSGA may vote against all incumbent members of the nominating committee.
+ 		 	In addition, we believe that companies have a responsibility to effectively manage and disclose risks and opportunities related to racial and ethnic diversity. If a company in the S&P 500 does not disclose, at minimum, the gender, racial and ethnic composition of its board, we will vote against the Chair of the nominating committee.
+ 		 	SSGA may take voting action against board members at companies on the S&P 500 that are laggards based on their R-FactorTM scores* and cannot articulate how they plan to improve their score.
+ 		 	Director-Related Proposals
+ 		 	We generally vote for the following director-related proposals:
+ 		 	
+•   Discharge of board members’ duties, in the absence of pending litigation, regulatory investigation, charges of fraud, or other indications of significant concern
+
+ 		 	
+•   Proposals to restore shareholders’ ability in order to remove directors with or without cause
+
+ 		 	
+•   Proposals that permit shareholders to elect directors to fill board vacancies
+
+ 		 	
+•   Shareholder proposals seeking disclosure regarding the company, board, or compensation committee’s use of compensation consultants, such as company name, business relationship(s), and fees paid
+
+ 		 	We generally vote against the following director-related proposals:
+ 		 	
+•   Requirements that candidates for directorships own large amounts of stock before being eligible to be elected
+
+ 		 	
+•   Proposals that relate to the “transaction of other business as properly comes before the meeting,” which extend “blank check” powers to those acting as proxy
+
+ 		 	
+•   Proposals requiring two candidates per board seat
+
+ 		 	Majority Voting
+ 		 	We will generally support a majority vote standard based on votes cast for the election of directors.
+We will generally vote to support amendments to bylaws that would require simple majority of voting shares (i.e. shares cast) to pass or to repeal certain provisions.
+
+ 		 	Annual Elections
+ 		 	We generally support the establishment of annual elections of the board of directors. Consideration is given to the overall level of board independence and the independence of the key committees, as well as the existence of a shareholder rights plan.
+ 		 	Cumulative Voting
+ 		 	We do not support cumulative voting structures for the election of directors.
+ 		 	Separation Chair/CEO
+ 		 	We analyze proposals for the separation of Chair/CEO on a case-by-case basis taking into consideration numerous factors, including the appointment of and role played by a lead director, a company’s performance, and the overall governance structure of the company.
+ 		 	However, we may take voting action against the chair or members of the nominating committee at S&P 500 companies that have combined the roles of chair and CEO and have not appointed a lead independent director.
+ 		 	Proxy Access
+ 		 	In general, we believe that proxy access is a fundamental right and an accountability mechanism for all long-term shareholders. We will consider proposals relating to proxy access on a case-by-case basis. We will support shareholder proposals that set parameters to empower long-term shareholders while providing management the flexibility to design a process that is appropriate for the company’s circumstances.
+ 		 	We will review the terms of all other proposals and will support those proposals that have been introduced in the spirit of enhancing shareholder rights.
+ 		 	Considerations include the following:
+ 		 	
+•   The ownership thresholds and holding duration proposed in the resolution
+
+ 		 	
+•   The binding nature of the proposal
+
+ 		 	
+•   The number of directors that shareholders may be able to nominate each year
+
+ 		 	
+•   Company governance structure
+
+ 		 	
+•   Shareholder rights
+
+ 		 	
+•   Board performance
+
+Age/Term Limits
+
+ 		 	
+Generally, we will vote against age and term limits unless the company is found to have poor board refreshment and director succession practices, and has a preponderance of non-executive directors with excessively long tenures serving on the board.
+
+ 
+
+ 		 	Approve Remuneration of Directors
+ 		 	Generally, we will support directors’ compensation, provided the amounts are not excessive relative to other issuers in the market or industry. In making our determination, we review whether the compensation is overly dilutive to existing shareholders.
+ 		 	Indemnification
+ 		 	Generally, we support proposals to limit directors’ liability and/or expand indemnification and liability protection if he or she has not acted in bad faith, gross negligence, or reckless disregard of the duties involved in the conduct of his or her office.
+ 		 	Classified Boards
+ 		 	We generally support annual elections for the board of directors.
+ 		 	Confidential Voting
+ 		 	We will support confidential voting.
+ 		 	Board Size
+ 		 	We will support proposals seeking to fix the board size or designate a range for the board size and will vote against proposals that give management the ability to alter the size of the board outside of a specified range without shareholder approval.
+ 		 	Board Responsiveness
+ 
+
+ 		 	
+We may vote against the re-election of members of the compensation committee if we have serious concerns about remuneration practices and if the company has not been responsive to shareholder pressure to review its approach. In addition, if the level of dissent against a management proposal on executive pay is consistently high, and we have determined that a vote against a pay-related proposal is warranted in the third consecutive year, we may vote against the Chair of the compensation committee.
+
+
+Audit-Related Issues	 		 	Ratifying Auditors and Approving Auditor Compensation
+ 		 	We support the approval of auditors and auditor compensation provided that the issuer has properly disclosed audit and non-audit fees relative to market practice and the audit fees are not deemed excessive. We deem audit fees to be excessive if the non-audit fees for the prior year constituted 50% or more of the total fees paid to the auditor. We will also support the disclosure of auditor and consulting relationships when the same or related entities are conducting both activities and will support the establishment of a selection committee responsible for the final approval of significant management consultant contract awards where existing firms are already acting in an auditing function.
+
+In circumstances where “other” fees include fees related to initial public offerings, bankruptcy emergence, and spin-offs, and the company makes public disclosure of the amount and nature of those fees which are determined to be an exception to the standard “non-audit fee” category, then such fees may be excluded from the non-audit fees considered in determining the ratio of non-audit to audit/audit-related fees/tax compliance and preparation for purposes of determining whether non-audit fees are excessive.
+
+ 		 	We will support the discharge of auditors and requirements that auditors attend the annual meeting of shareholders.1
+ 
+
+ 		 	
+ 
+
+Approval of Financial Statements	 		 	The disclosure and availability of reliable financial statements in a timely manner is imperative for the investment process. We expect external auditors to provide assurance of a company’s financial condition. Hence, we will vote against the approval of financial statements if i) they have not been disclosed or audited; ii) the auditor opinion is qualified/ adverse, or the auditor has issued a disclaimer of opinion; or iii) the auditor opinion is not disclosed.
+ 
+
+ 		 	
+ 
+
+Capital-Related Issues	 		 	Capital structure proposals include requests by management for approval of amendments to the certificate of incorporation that will alter the capital structure of the company.
+ 		 	The most common request is for an increase in the number of authorized shares of common stock, usually in conjunction with a stock split or dividend. Typically, we support requests that are not unreasonably dilutive or enhance the rights of common shareholders. In considering authorized share proposals, the typical threshold for approval is 100% over current authorized shares. However, the threshold may be increased if the company offers a specific need or purpose (merger, stock splits, growth purposes, etc.). All proposals are evaluated on a case-by-case basis taking into account the company’s specific financial situation.
+ 		 	Increase in Authorized Common Shares
+ 		 	In general, we support share increases for general corporate purposes up to 100% of current authorized stock.
+ 		 	We support increases for specific corporate purposes up to 100% of the specific need plus 50% of current authorized common stock for US and Canadian firms.
+ 		 	When applying the thresholds, we will also consider the nature of the specific need, such as mergers and acquisitions and stock splits.
+ 		 	Increase in Authorized Preferred Shares
+ 		 	We vote on a case-by-case basis on proposals to increase the number of preferred shares.
+ 		 	Generally, we will vote for the authorization of preferred stock in cases where the company specifies the voting, dividend, conversion, and other rights of such stock and the terms of the preferred stock appear reasonable.
+
+We will support proposals to create “declawed” blank check preferred stock (stock that cannot be used as a takeover defense). However, we will vote against proposals to increase the number of blank check preferred stock authorized for issuance when no shares have been issued or reserved for a specific purpose.
+
+ 		 	Unequal Voting Rights
+ 		 	We will not support proposals authorizing the creation of new classes of common stock with superior voting rights and will vote against new classes of preferred stock with unspecified voting, conversion, dividend distribution, and other rights. In addition, we will not support capitalization changes that add “blank check” classes of stock (i.e. classes of stock with undefined voting rights) or classes that dilute the voting interests of existing shareholders.
+ 		 	However, we will support capitalization changes that eliminate other classes of stock and/ or unequal voting rights.
+ 
+
+ 		 	
+ 
+
+Mergers and Acquisitions	 		 	Mergers or the reorganization of the structure of a company often involve proposals relating to reincorporation, restructurings, liquidations, and other major changes to the corporation.
+ 		 	Proposals that are in the best interests of the shareholders, demonstrated by enhancing share value or improving the effectiveness of the company’s operations, will be supported.
+ 		 	In general, provisions that are not viewed as economically sound or are thought to be destructive to shareholders’ rights are not supported.
+ 		 	We will generally support transactions that maximize shareholder value. Some of the considerations include the following:
+ 		 	
+•   Offer premium
+
+ 		 	
+•   Strategic rationale
+
+ 		 	
+•   Board oversight of the process for the recommended transaction, including, director and/or management conflicts of interest
+
+ 		 	
+•   Offers made at a premium and where there are no other higher bidders
+
+ 		 	
+•   Offers in which the secondary market price is substantially lower than the net asset value
+
+ 		 	We may vote against a transaction considering the following:
+ 		 	
+•   Offers with potentially damaging consequences for minority shareholders because of illiquid stock, especially in some non-US markets
+
+ 		 	
+•   Offers where we believe there is a reasonable prospect for an enhanced bid or other bidders
+
+ 		 	
+•   The current market price of the security exceeds the bid price at the time of voting
+
+
+Anti–Takeover Issues
+
+ 		 	
+ 
+
+ 
+
+Typically, these are proposals relating to requests by management to amend the certificate of incorporation or bylaws to add or to delete a provision that is deemed to have an anti-takeover effect. The majority of these proposals deal with management’s attempt to add some provision that makes a hostile takeover more difficult or will protect incumbent management in the event of a change in control of the company.
+
+ 		 	Proposals that reduce shareholders’ rights or have the effect of entrenching incumbent management will not be supported.
+ 		 	Proposals that enhance the right of shareholders to make their own choices as to the desirability of a merger or other proposal are supported.
+ 		 	Shareholder Rights Plans
+ 		 	US We will support mandates requiring shareholder approval of a shareholder rights plans (“poison pill”) and repeals of various anti-takeover related provisions.
+ 		 	In general, we will vote against the adoption or renewal of a US issuer’s shareholder rights plan (“poison pill”).
+ 		 	We will vote for an amendment to a shareholder rights plan (“poison pill”) where the terms of the new plans are more favorable to shareholders’ ability to accept unsolicited offers (i.e. if one of the following conditions are met: (i) minimum trigger, flip-in or flip-over of 20%, (ii) maximum term of three years, (iii) no “dead hand,” “slow hand,” “no hand” nor similar feature that limits the ability of a future board to redeem the pill, and (iv) inclusion of a shareholder redemption feature (qualifying offer clause), permitting ten percent of the shares to call a special meeting or seek a written consent to vote on rescinding the pill if the board refuses to redeem the pill 90 days after a qualifying offer is announced).
+ 		 	Canada We analyze proposals for shareholder approval of a shareholder rights plan (“poison pill”) on a case-by-case basis taking into consideration numerous factors, including but not limited to, whether it conforms to ‘new generation’ rights plans and the scope of the plan.
+ 		 	Special Meetings
+ 		 	We will vote for shareholder proposals related to special meetings at companies that do not provide shareholders the right to call for a special meeting in their bylaws if:
+ 		 	
+•   The company also does not allow shareholders to act by written consent
+
+ 		 	
+•   The company allows shareholders to act by written consent but the ownership threshold for acting by written consent is set above 25% of outstanding shares
+
+We will vote for shareholder proposals related to special meetings at companies that give shareholders (with a minimum 10% ownership threshold) the right to call for a special meeting in their bylaws if:
+
+ 		 	
+•   The current ownership threshold to call for a special meeting is above 25% of outstanding shares
+
+ 		 	We will vote for management proposals related to special meetings.
+ 		 	Written Consent
+ 		 	We will vote for shareholder proposals on written consent at companies if:
+ 		 	
+•   The company does not have provisions in their bylaws giving shareholders the right to call for a special meeting
+
+ 		 	
+•   The company allows shareholders the right to call for a special meeting, but the current ownership threshold to call for a special meeting is above 25% of outstanding shares
+
+ 		 	
+•   The company has a poor governance profile
+
+ 		 	We will vote management proposals on written consent on a case-by-case basis.
+ 		 	Super–Majority
+ 
+
+ 		 	
+We will generally vote against amendments to bylaws requiring super-majority shareholder votes to pass or repeal certain provisions. We will vote for the reduction or elimination of super-majority vote requirements, unless management of the issuer was concurrently seeking to or had previously made such a reduction or elimination.
+
+ 
+
+Remuneration Issues	 		 	Despite the differences among the types of plans and the awards possible there is a simple underlying philosophy that guides the analysis of all compensation plans; namely, the terms of the plan should be designed to provide an incentive for executives and/or employees to align their interests with those of the shareholders and thus work toward enhancing shareholder value. Plans that benefit participants only when the shareholders also benefit are those most likely to be supported.
+ 		 	Advisory Vote on Executive Compensation and Frequency
+ 		 	State Street Global Advisors believes executive compensation plays a critical role in aligning executives’ interest with shareholders’, attracting, retaining and incentivizing key talent, and ensuring positive correlation between the performance achieved by management and the benefits derived by shareholders. We support management proposals on executive compensation where there is a strong relationship between executive pay and performance over a five-year period. We seek adequate disclosure of various compensation elements, absolute and relative pay levels, peer selection and benchmarking, the mix of long-term and short-term incentives, alignment of pay structures with shareholder interests as well as with corporate strategy, and performance. Further shareholders should have the opportunity to assess whether pay structures and levels are aligned with business performance on an annual basis.
+
+In Canada, where advisory votes on executive compensation are not commonplace, we will rely primarily upon engagement to evaluate compensation plans.
+
+ 		 	Employee Equity Award Plans
+ 		 	We consider numerous criteria when examining equity award proposals. Generally we do not vote against plans for lack of performance or vesting criteria. Rather the main criteria that will result in a vote against an equity award plan are:
+ 		 	Excessive voting power dilution To assess the dilutive effect, we divide the number of shares required to fully fund the proposed plan, the number of authorized but unissued shares and the issued but unexercised shares by the fully diluted share count. We review that number in light of certain factors, such as the industry of the issuer.
+ 		 	Historical option grants Excessive historical option grants over the past three years. Plans that provide for historical grant patterns of greater than five to eight percent are generally not supported.
+ 		 	Repricing We will vote against any plan where repricing is expressly permitted. If a company has a history of repricing underwater options, the plan will not be supported.
+ 		 	Other criteria include the following:
+ 		 	
+•   Number of participants or eligible employees
+
+ 		 	
+•   The variety of awards possible
+
+ 		 	
+•   The period of time covered by the plan
+
+ 		 	There are numerous factors that we view as negative. If combined they may result in a vote against a proposal. Factors include:
+ 		 	
+•   Grants to individuals or very small groups of participants
+
+ 		 	
+•   “Gun-jumping” grants which anticipate shareholder approval of a plan or amendment
+
+ 		 	
+•   The power of the board to exchange “underwater” options without shareholder approval. This pertains to the ability of a company to reprice options, not the actual act of repricing described above
+
+ 		 	
+•   Below market rate loans to officers to exercise their options
+
+ 		 	
+•   The ability to grant options at less than fair market value;
+
+ 		 	
+•   Acceleration of vesting automatically upon a change in control
+
+ 		 	
+•   Excessive compensation (i.e. compensation plans which we deem to be overly dilutive)
+
+Share Repurchases If a company makes a clear connection between a share repurchase program and its intent to offset dilution created from option plans and the company fully discloses the amount of shares being repurchased, the voting dilution calculation may be adjusted to account for the impact of the buy back.
+
+ 		 	Companies will not have any such repurchase plan factored into the dilution calculation if they do not (i) clearly state the intentions of any proposed share buy-back plan, (ii) disclose a definitive number of the shares to be bought back, (iii) specify the range of premium/discount to market price at which a company can repurchase shares, and (iv) disclose the time frame during which the shares will be bought back.
+ 		 	162(m) Plan Amendments If a plan would not normally meet our criteria described above, but was primarily amended to add specific performance criteria to be used with awards that were designed to qualify for performance-based exception from the tax deductibility limitations of Section 162(m) of the Internal Revenue Code, then we will support the proposal to amend the plan.
+ 		 	Employee Stock Option Plans
+ 		 	We generally vote for stock purchase plans with an exercise price of not less than 85% of fair market value. However, we take market practice into consideration.
+ 		 	Compensation-Related Items
+ 		 	We generally support the following proposals:
+ 		 	
+•   Expansions to reporting of financial or compensation-related information within reason
+
+ 
+
+•   Proposals requiring the disclosure of executive retirement benefits if the issuer does not have an independent compensation committee
+
+ 		 	We generally vote against the following proposal:
+ 
+
+ 		 	
+•   Retirement bonuses for non-executive directors and auditors
+
+ 
+
+Miscellaneous/ Routine Items	 		 	We generally support the following miscellaneous/routine governance items:
+ 		 	
+•   Reimbursement of all appropriate proxy solicitation expenses associated with the election when voting in conjunction with support of a dissident slate
+
+ 		 	
+•   Opting-out of business combination provision
+
+ 		 	
+•   Proposals that remove restrictions on the right of shareholders to act independently of management
+
+ 		 	
+•   Liquidation of the company if the company will file for bankruptcy if the proposal is not approved
+
+ 		 	
+•   Shareholder proposals to put option repricings to a shareholder vote
+
+ 	
+•   General updating of, or corrective amendments to, charter and bylaws not otherwise specifically addressed herein, unless such amendments would reasonably be expected to diminish shareholder rights (e.g. extension of directors’ term limits, amending shareholder vote requirement to amend the charter documents, insufficient information provided as to the reason behind the amendment)
+
+ 		 	
+•   Change in corporation name
+
+ 		 	
+•   Mandates that amendments to bylaws or charters have shareholder approval
+
+ 		 	
+•   Management proposals to change the date, time, and/or location of the annual meeting unless the proposed change is unreasonable
+
+ 		 	
+•   Repeals, prohibitions or adoption of anti-greenmail provisions
+
+ 		 	
+•   Management proposals to implement a reverse stock split when the number of authorized shares will be proportionately reduced and proposals to implement a reverse stock split to avoid delisting
+
+ 		 	
+•   Exclusive forum provisions
+
+ 		 	State Street Global Advisors generally does not support the following miscellaneous/ routine governance items:
+ 		 	
+•   Proposals requesting companies to adopt full tenure holding periods for their executives
+
+ 		 	
+•   Reincorporation to a location that we believe has more negative attributes than its current location of incorporation
+
+ 		 	
+•   Shareholder proposals to change the date, time, and/or location of the annual meeting unless the current scheduling or location is unreasonable
+
+ 		 	
+•   Proposals to approve other business when it appears as a voting item
+
+ 		 	
+•   Proposals giving the board exclusive authority to amend the bylaws
+
+ 
+
+ 		 	
+•   Proposals to reduce quorum requirements for shareholder meetings below a majority of the shares outstanding unless there are compelling reasons to support the proposal
+
+ 
+
+Environmental and Social Issues	 		 	As a fiduciary, State Street Global Advisors takes a comprehensive approach to engaging with our portfolio companies about material environmental and social (sustainability) issues. We use our voice and our vote through engagement, proxy voting, and thought leadership in order to communicate with issuers and educate market participants about our perspective on important sustainability topics. Our Asset Stewardship program prioritization process allows us to proactively identify companies for engagement and voting in order to mitigate sustainability risks in our portfolio. Through engagement, we address a broad range of topics that align with our thematic priorities and build long-term relationships with issuers. When voting, we fundamentally consider whether the adoption of a shareholder proposal addressing a material sustainability issue would promote long-term shareholder value in the context of the company’s existing practices and disclosures as well as existing market practice.
+
+	
+ 
+
+ 
+
+For more information on our approach to environmental and social issues, please see our Global Proxy Voting and Engagement Guidelines for Environmental and Social Issues available at ssga.com/about-us/asset-stewardship.html.
+
+ 
+
+More Information	 		 	Any client who wishes to receive information on how its proxies were voted should contact its State Street Global Advisors relationship manager.
+
+About State Street Global Advisors
+
+ 		 	
+ 
+
+ 
+
+For four decades, State Street Global Advisors has served the world’s governments, institutions and financial advisors. With a rigorous, risk-aware approach built on research, analysis and market-tested experience, we build from a breadth of active and index strategies to create cost-effective solutions. As stewards, we help portfolio companies see that what is fair for people and sustainable for the planet can deliver long-term performance. And, as pioneers in index, ETF, and ESG investing, we are always inventing new ways to invest. As a result, we have become the world’s third-largest asset manager with US $3.47 trillion** under our care.
+
+ 
+
+

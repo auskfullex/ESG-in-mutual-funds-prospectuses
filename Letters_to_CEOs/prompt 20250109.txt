@@ -7,7 +7,7 @@ Follow these steps to structure your response:
 (3) Assess the extent to which the letter demands portfolio firms to disclose or mitigate climate risks. 
 
 Your response should be in a json format with the following keys: (1) score and (2) rationale.
-(1) score is a numerical value (0, 1, 2, 3, 4, 5, 6, 7, 8, 9, or 10) that reflects the letter's overall commitment to climate risk management.
+(1) score is a numerical value (0, 1, 2, 3, 4, 5, 6, 7, 8, 9, or 10) that reflects the letter's overall commitment to mitigate climate risks.
 
 0 means a minimal score, where the letter does not mention climate risks;
 5 means a moderate score, where the letter acknowledges the importance of climate risks but does not prioritize it as a central focus;
