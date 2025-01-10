@@ -9,13 +9,13 @@ Step 2. Assess the extent of the manager's expectation for its portfolio firms r
 	•	How the portfolio firms have adjusted, or plan to adjust, their governance, risk assessment, and their performance indicators in response to climate changes; and
 	•	Reporting standards for the disclosure of the above two bullet points, if they have adopted.
 
-Step 3. Evaluate the extent of the fund manager's determination to take disciplinary action, including:
+Step 3. Assess the extent of the fund manager's determination to take disciplinary action, including:
 	•	The fund manager's use of direct engagement with a portfolio firm's management to ascertain whether a portfolio firm has taken or is in the process of implementing sufficient steps to address climate risks.
 	•	The fund manager's actions in case where a portfolio firm is found to have inadequately addressed climate risks, including (a) directly engagement with the firm's management and voting against the management, and/or (b) support for shareholder proposals advocating for the proper management of climate risks. 
 
 Your response should be in a json format with the following keys: (i) score and (ii) rationale.
 
-(i) score is an integer, ranging from 0 to 100, which represents the policies' effectiveness in mitigating its climate risks that portfolio firms face. In assigning scores, do not consider descriptions of environmental issues as inclusive of climate risk issues; only count specific references to climate changes towards the scores. 
+(i) score is an integer, ranging from 0 to 100, which represents the policies' effectiveness in mitigating its climate risks that portfolio firms face. In assigning scores, do not consider descriptions of environmental and social issues or sustainability issues as inclusive of climate risk issues; only assess specific references to climate risks towards the score. 
 
 0 means a minimal score, where the policies do not mention climate risks;
 
