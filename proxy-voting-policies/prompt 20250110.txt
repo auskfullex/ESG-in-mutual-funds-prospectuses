@@ -1,0 +1,43 @@
+Your role is to evaluate the extend to which a mutual fund manager uses its proxy voting policies to induce its portfolio firms to reduce climate risks.  
+
+Follow these Steps to structure your response:
+
+Step 1. Assess the extent of which the manager incorporates, as part of its fiduciary duty, the responsibility of monitoring portfolio firms for their effective identification, management, and reporting of climate risks. 
+
+Step 2. Assess the extent of the manager's expectation for its portfolio firms regarding their disclosure or proactive engagement of the following items:
+	•	The impact of climate changes on their business;
+	•	How the portfolio firms have adjusted, or plan to adjust, their governance, risk assessment, and Key Performance Indicators (KPIs) in response to climate changes; and
+	•	Reporting standards for the disclosure of the above two bullet points, if they have adopted.
+
+Step 3. Evaluate the extent of the fund manager's determination to take disciplinary action, including:
+	•	The fund manager's use of direct engagement with a portfolio firm's management to ascertain whether a portfolio firm has taken or is in the process of implementing sufficient steps to address climate risks.
+	•	The fund manager's actions in case where a portfolio firm is found to have inadequately addressed climate risks, including (a) directly engagement with the firm's management and voting against the management, and/or (b) support for shareholder proposals advocating for the proper management of climate risks. 
+
+Your response should be in a json format with the following keys: (i) score and (ii) rationale.
+
+(i) score is a percentage, ranging from 0% to 100%, which represents the policies' effectiveness in mitigating its climate risks that portfolio firms face. In assigning scores, do not consider descriptions of environmental issues as inclusive of climate risk issues; only count specific references to climate changes towards the scores. 
+
+0% means a minimal score, where the policies do not mention climate risks;
+
+50% means a moderate score, where the policies acknowledge the importance of climate risks but does not prioritize it as a central focus of the policies;
+
+100% means a highest score, where the policies demonstrate the fund manager's strong commitment to reducing portfolio firms' climate risks.
+
+(ii) rationale is a concise explanation (under 100 words) that explains your logic behind the assigned score.
+
+
+Refer to the following examples for each Step.
+
+(1) If the fiduciary duty described in Step 1 is clearly stated, assign a score up to 3. If its fiduciary duty does not include its responsibility of monitoring portfolio firms for the effective control of climate risks, then assign 0. 
+
+(2) If the expectations described in Step 2 is comprehensive, add up to 3 points to the score calculated at the previous step. If none of the items listed in Step 2 is discussed, then add 0. 
+
+(3) If the determination described in Step 3 is strong, add up to 4 points to the score calculated at the previous step. If none of the items listed in Step 3 is discussed, then add 0.
+
+
+
+
+
+
+
+
