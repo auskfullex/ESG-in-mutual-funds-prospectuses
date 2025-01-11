@@ -1,0 +1,438 @@
+INTRODUCTION
+
+We believe BlackRock has a responsibility to monitor and provide feedback to companies, in our role as stewards of our clients’ investments. BlackRock Investment Stewardship (“BIS”) does this through engagement with management teams and/or board members on material business issues, including environmental, social, and governance (“ESG”) matters and, for those clients who have given us authority, through voting proxies in the best long-term economic interests of their assets.
+
+The following issue-specific proxy voting guidelines (the “Guidelines”) are intended to summarize BIS’ regional philosophy and approach to engagement and voting on ESG factors, as well as our expectations of directors, for U.S. securities. These Guidelines are not intended to limit the analysis of individual issues at specific companies or provide a guide to how BIS will engage and/or vote in every instance. They are applied with discretion, taking into consideration the range of issues and facts specific to the company, as well as individual ballot items at annual and special meetings.
+
+VOTING GUIDELINES
+
+These guidelines are divided into eight key themes, which group together the issues that frequently appear on the agenda of annual and extraordinary meetings of shareholders:
+
+ 
+
+ 	•	 Boards and directors
+ 	•	 Auditors and audit-related issues
+ 	•	 Capital structure
+ 	•	 Mergers, acquisitions, asset sales, and other special transactions
+ 	•	 Executive compensation
+ 	•	 Environmental and social issues
+ 	•	 General corporate governance matters
+ 	•	 Shareholder protections
+
+BOARDS AND DIRECTORS
+
+The effective performance of the board is critical to the economic success of the company and the protection of shareholders’ interests. As part of their responsibilities, board members owe fiduciary duties to shareholders in overseeing the strategic direction, operations, and risk management of the company. For this reason, BIS sees engagement with and the election of directors as one of our most critical responsibilities.
+
+Disclosure of material issues that affect the company’s long-term strategy and value creation, including material ESG factors, is essential for shareholders to appropriately understand and assess how effectively the board is identifying, managing, and mitigating risks.
+
+Where we conclude that a board has failed to address or disclose one or more material issues within a specified timeframe, we may hold directors accountable or take other appropriate action in the context of our voting decisions.
+
+Director elections
+
+Where a board has not adequately demonstrated, through actions and company disclosures, how material issues are appropriately identified, managed, and overseen, we will consider voting against the re-election of those directors responsible for the oversight of such issues, as indicated below.
+
+Independence
+
+We expect a majority of the directors on the board to be independent. In addition, all members of key committees, including audit, compensation, and nominating/ governance committees, should be independent. Our view of independence may vary from listing standards.
+
+Common impediments to independence may include:
+
+ 
+
+ 	•	Employment as a senior executive by the company or a subsidiary within the past five years
+ 	•	An equity ownership in the company in excess of 20%
+ 	•	Having any other interest, business, or relationship (professional or personal) which could, or could reasonably be perceived to, materially interfere with the director’s ability to act in the best interests of the company
+
+We may vote against directors serving on key committees who we do not consider to be independent, including at controlled companies.
+
+Oversight
+
+We expect the board to exercise appropriate oversight of management and the business activities of the company. Where we believe a board has failed to exercise sufficient oversight, we may vote against the responsible committees and/or individual directors. The following illustrates common circumstances:
+
+ 
+
+ 	•	With regard to material ESG risk factors, or where the company has failed to provide shareholders with adequate disclosure to conclude appropriate strategic consideration is given to these factors by the board, we may vote against directors of the responsible committee, or the most relevant director
+ 	•	With regard to accounting practices or audit oversight, e.g., where the board has failed to facilitate quality, independent auditing. If substantial accounting irregularities suggest insufficient oversight, we will consider voting against the current audit committee, and any other members of the board who may be responsible
+ 	•	During a period in which executive compensation appears excessive relative to the performance of the company and compensation paid by peers, we may vote against the members of the compensation committee
+ 	•	Where a company has proposed an equity compensation plan that is not aligned with shareholders’ interests, we may vote against the members of the compensation committee
+ 	•	Where the board is not comprised of a majority of independent directors (this may not apply in the case of a controlled company), we may vote against the chair of the nominating/governance committee, or where no chair exists, the nominating/governance committee member with the longest tenure
+ 	•	Where it appears the director has acted (at the company or at other companies) in a manner that compromises their ability to represent the best long-term economic interests of shareholders, we may vote against that individual
+ 	•	Where a director has a multi-year pattern of poor attendance at combined board and applicable committee meetings, or a director has poor attendance in a single year with no disclosed rationale, we may vote against that individual. Excluding exigent circumstances, BIS generally considers attendance at less than 75% of the combined board and applicable committee meetings to be poor attendance
+ 	•	Where a director serves on an excessive number of boards, which may limit their capacity to focus on each board’s needs, we may vote against that individual. The following identifies the maximum number of boards on which a director may serve, before BIS considers them to be over-committed:
+
+ 
+
+ 	 	 
+ 	  	Public Company
+Executive	 	  	# Outside Public Boards(In addition to the company under review.)	  	Total # of Public Boards
+Director A
+
+  	 	✓	 	  	1	  	2
+Director B(Including fund managers whose full-time employment involves responsibility for the investment and oversight of fund vehicles, and those who have employment as professional investors and provide oversight for those holdings.)
+
+  	 	 	 	  	3	  	4
+
+
+Responsiveness to shareholders
+
+We expect a board to be engaged and responsive to its shareholders, including acknowledging voting outcomes for director elections, compensation, shareholder proposals, and other ballot items. Where we believe a board has not substantially addressed shareholder concerns, we may vote against the responsible committees and/or individual directors. The following illustrates common circumstances:
+
+ 
+
+ 	•	 	
+The independent chair or lead independent director, members of the nominating/governance committee, and/or the longest tenured director(s), where we observe a lack of board responsiveness to shareholders, evidence of board entrenchment, and/or failure to plan for adequate board member succession
+
+ 
+
+ 	•	 	
+The chair of the nominating/governance committee, or where no chair exists, the nominating/governance committee member with the longest tenure, where board member(s) at the most recent election of directors have received against votes from more than 25% of shares voted, and the board has not taken appropriate action to respond to shareholder concerns. This may not apply in cases where BIS did not support the initial against vote
+
+ 
+
+ 	•	 	
+The independent chair or lead independent director and/or members of the nominating/governance committee, where a board fails to consider shareholder proposals that receive substantial support, and the proposals, in our view, have a material impact on the business, shareholder rights, or the potential for long-term value creation
+
+Shareholder rights
+
+We expect a board to act with integrity and to uphold governance best practices. Where we believe a board has not acted in the best interests of its shareholders, we may vote against the appropriate committees and/or individual directors. The following illustrates common circumstances:
+
+ 
+
+ 	•	The independent chair or lead independent director and members of the nominating/governance committee, where a board implements or renews a poison pill without shareholder approval
+ 	•	The independent chair or lead independent director and members of the nominating/governance committee, where a board amends the charter/articles/bylaws and where the effect may be to entrench directors or to significantly reduce shareholder rights
+ 	•	Members of the compensation committee where the company has repriced options without shareholder approval If a board maintains a classified structure, it is possible that the director(s) with whom we have a particular concern may not be subject to election in the year that the concern arises. In such situations, if we have a concern regarding the actions of a committee and the responsible member(s), we will generally register our concern by voting against all available members of the relevant committee.
+
+Board composition and effectiveness
+
+We encourage boards to periodically refresh their membership to ensure relevant skills and experience within the boardroom. To this end, regular performance reviews and skills assessments should be conducted by the nominating/governance committee or the lead independent director. When nominating new directors to the board, we ask that there is sufficient information on the individual candidates so that shareholders can assess the suitability of each individual nominee and the overall board composition. Where boards find that age limits or term limits are the most efficient and objective mechanism for ensuring periodic board refreshment, we generally defer to the board’s determination in setting such limits. BIS will also consider the average board tenure to evaluate processes for board renewal. We may oppose boards that appear to have an insufficient mix of short-, medium-, and long-tenured directors.
+
+Furthermore, we expect boards to be comprised of a diverse selection of individuals who bring their personal and professional experiences to bear in order to create a constructive debate of a variety of views and opinions in the boardroom. We are interested in diversity in the board room as a means to promoting diversity of thought and avoiding “group think”. We ask boards to disclose how diversity is considered in board composition, including demographic factors such as gender, race, ethnicity, and age; as well as professional characteristics, such as a director’s industry experience, specialist areas of expertise, and geographic location. We assess a board’s diversity in the context of a company’s domicile, business model, and strategy. We believe boards should aspire to 30% diversity of membership and encourage companies to have at least two directors on their board who identify as female and at least one who identifies as a member of an underrepresented group.(Including, but not limited to, individuals who identify as Black or African American, Hispanic or Latinx, Asian, Native American or Alaska Native, or Native Hawaiian or Pacific Islander; individuals who identify as LGBTQ+; individuals who identify as underrepresented based on national, Indigenous, religious, or cultural identity; individuals with disabilities; and veterans.)
+
+We ask that boards disclose:
+
+ 
+
+ 	•	The aspects of diversity that the company believes are relevant to its business and how the diversity characteristics of the board, in aggregate, are aligned with a company’s long-term strategy and business model
+ 	•	The process by which candidates are identified and selected, including whether professional firms or other resources outside of incumbent directors’ networks have been engaged to identify and/or assess candidates, and whether a diverse slate of nominees is considered for all available board nominations
+ 	•	The process by which boards evaluate themselves and any significant outcomes of the evaluation process, without divulging inappropriate and/or sensitive details
+
+This position is based on our view that diversity of perspective and thought — in the boardroom, in the management team, and throughout the company — leads to better long-term economic outcomes for companies. Academic research already reveals correlations between specific dimensions of diversity and effects on decision-making processes and outcomes.(For example, the role of gender diversity on team cohesion and participative communication is explored by Post, C., 2015, When is female leadership an advantage? Coordination requirements, team cohesion, and team interaction norms, Journal of Organizational Behavior, 36, 1153-1175.) In our experience, greater diversity in the boardroom contributes to more robust discussions and more innovative and resilient decisions. Over time, it can also promote greater diversity and resilience in the leadership team and workforce more broadly, enabling companies to develop businesses that more closely reflect and resonate with the customers and communities they serve.
+
+To the extent that, based on our assessment of corporate disclosures, a company has not adequately accounted for diversity in its board composition within a reasonable timeframe, we may vote against members of the nominating/governance committee for an apparent lack of commitment to board effectiveness. We recognize that building high-quality, diverse boards can take time. We will look to the largest companies (e.g., S&P 500) for continued leadership. Our publicly available commentary provides more information on our approach to board diversity.
+
+Board size
+
+We typically defer to the board in setting the appropriate size and believe directors are generally in the best position to assess the optimal board size to ensure effectiveness. However, we may oppose boards that appear too small to allow for the necessary range of skills and experience or too large to function efficiently.
+
+CEO and management succession planning
+
+There should be a robust CEO and senior management succession plan in place at the board level that is reviewed and updated on a regular basis. We expect succession planning to cover scenarios over both the long-term, consistent with the strategic direction of the company and identified leadership needs over time, as well as the short-term, in the event of an unanticipated executive departure. We encourage the company to explain its executive succession planning process, including where accountability lies within the boardroom for this task, without prematurely divulging sensitive information commonly associated with this exercise.
+
+Classified board of directors/staggered terms
+
+We believe that directors should be re-elected annually; classification of the board generally limits shareholders’ rights to regularly evaluate a board’s performance and select directors. While we will typically support proposals requesting board de-classification, we may make exceptions, should the board articulate an appropriate strategic rationale for a classified board structure. This may include when a company needs consistency and stability during a time of transition, e.g., newly public companies or companies undergoing a strategic restructuring. A classified board structure may also be justified at non-operating companies, e.g., closed-end funds or business development companies (“BDC”),(A BDC is a special investment vehicle under the Investment Company Act of 1940 that is designed to facilitate capital formation for small and middle-market companies.) in certain circumstances. We would, however, expect boards with a classified structure to periodically review the rationale for such structure and consider when annual elections might be more appropriate.
+
+Without a voting mechanism to immediately address concerns about a specific director, we may choose to vote against the directors up for election at the time (see “Shareholder rights” for additional detail).
+
+Contested director elections
+
+The details of contested elections, or proxy contests, are assessed on a case-by-case basis. We evaluate a number of factors, which may include: the qualifications of the dissident and management candidates; the validity of the concerns identified by the dissident; the viability of both the dissident’s and management’s plans; the ownership stake and holding period of the dissident; the likelihood that the dissident’s solutions will produce the desired change; and whether the dissident represents the best option for enhancing long-term shareholder value.
+
+Cumulative voting
+
+We believe that a majority vote standard is in the best long-term interests of shareholders. It ensures director accountability through the requirement to be elected by more than half of the votes cast. As such, we will generally oppose proposals requesting the adoption of cumulative voting, which may disproportionately aggregate votes on certain issues or director candidates.
+
+Director compensation and equity programs
+
+We believe that compensation for directors should be structured to attract and retain directors, while also aligning their interests with those of shareholders. We believe director compensation packages that are based on the company’s long-term value creation and include some form of long-term equity compensation are more likely to meet this goal. In addition, we expect directors to build meaningful share ownership over time.
+
+Majority vote requirements
+
+BIS believes that directors should generally be elected by a majority of the shares voted and will normally support proposals seeking to introduce bylaws requiring a majority vote standard for director elections. Majority vote standards assist in ensuring that directors who are not broadly supported by shareholders are not elected to serve as their representatives. Some companies with a plurality voting standard have adopted a resignation policy for directors who do not receive support from at least a majority of votes cast. Where we believe that the company already has a sufficiently robust majority voting process in place, we may not support a shareholder proposal seeking an alternative mechanism.
+
+We note that majority voting may not be appropriate in all circumstances, for example, in the context of a contested election, or for majority-controlled companies.
+
+Risk oversight
+
+Companies should have an established process for identifying, monitoring, and managing business and material ESG risks. Independent directors should have access to relevant management information and outside advice, as appropriate, to ensure they can properly oversee risk. We encourage companies to provide transparency around risk management, mitigation, and reporting to the board. We are particularly interested in understanding how risk oversight processes evolve in response to changes in corporate strategy and/or shifts in the business and related risk environment. Comprehensive disclosure provides investors with a sense of the company’s long-term risk management practices and, more broadly, the quality of the board’s oversight. In the absence of robust disclosures, we may reasonably conclude that companies are not adequately managing risk.
+
+Separation of chair and CEO
+
+We believe that independent leadership is important in the boardroom. There are two commonly accepted structures for independent board leadership: 1) an independent chair; or 2) a lead independent director when the roles of chair and CEO are combined.
+
+In the absence of a significant governance concern, we defer to boards to designate the most appropriate leadership structure to ensure adequate balance and independence.(To this end, we do not view shareholder proposals asking for the separation of chair and CEO to be a proxy for other concerns we may have at the company for which a vote against directors would be more appropriate. Rather, support for such a proposal might arise in the case of overarching and sustained governance concerns such as lack of independence or failure to oversee a material risk over consecutive years.)
+
+In the event that the board chooses a combined chair/CEO model, we generally support the designation of a lead independent director if they have the power to: 1) provide formal input into board meeting agendas; 2) call meetings of the independent directors; and 3) preside at meetings of independent directors. Furthermore, while we anticipate that most directors will be elected annually, we believe an element of continuity is important for this role to provide appropriate leadership balance to the chair/CEO.
+
+The following table illustrates examples of responsibilities under each board leadership model:
+
+ 
+
+  	  	Combined Chair/CEO Model	  	    Separate Chair Model    
+  	Chair/CEO	  	Lead Independent Director	  	Chair
+Board Meetings	  	Authority to call full meetings of the board of directors	  	
+Attends full meetings of the board of directors
+
+ 
+
+Authority to call meetings of independent directors
+
+ 
+
+Briefs CEO on issues arising from executive sessions
+
+  	Authority to call full meetings of the board of directors
+ 	 	 	 
+Agenda	  	Primary responsibility for shaping board agendas, consulting with the lead independent director	  	Collaborates with chair/CEO to set board agenda and board information	  	Primary responsibility for shaping board agendas, in conjunction with CEO
+ 	 	 	 
+Board Communications	  	Communicates with all directors on key issues and concerns outside of full board meetings	  	Facilitates discussion among independent directors on key issues and concerns outside of full board meetings, including contributing to the oversight of CEO and management succession planning	  	Facilitates discussion among independent directors on key issues and concerns outside of full board meetings, including contributing to the oversight of CEO and management succession planning
+AUDITORS AND AUDIT-RELATED ISSUES
+
+BIS recognizes the critical importance of financial statements to provide a complete and accurate portrayal of a company’s financial condition. Consistent with our approach to voting on directors, we seek to hold the audit committee of the board responsible for overseeing the management of the audit function at a company. We may vote against the audit committee members where the board has failed to facilitate quality, independent auditing. We look to public disclosures for insight into the scope of the audit committee responsibilities, including an overview of audit committee processes, issues on the audit committee agenda, and key decisions taken by the audit committee. We take particular note of cases involving significant financial restatements or material weakness disclosures, and we expect timely disclosure and remediation of accounting irregularities.
+
+The integrity of financial statements depends on the auditor effectively fulfilling its role. To that end, we favor an independent auditor. In addition, to the extent that an auditor fails to reasonably identify and address issues that eventually lead to a significant financial restatement, or the audit firm has violated standards of practice, we may also vote against ratification.
+
+From time to time, shareholder proposals may be presented to promote auditor independence or the rotation of audit firms. We may support these proposals when they are consistent with our views as described above.
+
+CAPITAL STRUCTURE PROPOSALS
+
+Equal voting rights
+
+BIS believes that shareholders should be entitled to voting rights in proportion to their economic interests. We believe that companies that look to add or that already have dual or multiple class share structures should review these structures on a regular basis, or as company circumstances change. Companies with multiple share classes should receive shareholder approval of their capital structure on a periodic basis via a management proposal on the company’s proxy. The proposal should give unaffiliated shareholders the opportunity to affirm the current structure or establish mechanisms to end or phase out controlling structures at the appropriate time, while minimizing costs to shareholders.
+
+Blank check preferred stock
+
+We frequently oppose proposals requesting authorization of a class of preferred stock with unspecified voting, conversion, dividend distribution, and other rights (“blank check” preferred stock) because they may serve as a transfer of authority from shareholders to the board and as a possible entrenchment device. We generally view the board’s discretion to establish voting rights on a when-issued basis as a potential anti-takeover device, as it affords the board the ability to place a block of stock with an investor sympathetic to management, thereby foiling a takeover bid without a shareholder vote.
+
+Nonetheless, we may support the proposal where the company:
+
+ 
+
+ 	•	Appears to have a legitimate financing motive for requesting blank check authority
+ 	•	Has committed publicly that blank check preferred shares will not be used for anti-takeover purposes
+ 	•	Has a history of using blank check preferred stock for financings
+ 	•	Has blank check preferred stock previously outstanding such that an increase would not necessarily provide further anti-takeover protection but may provide greater financing flexibility
+
+Increase in authorized common shares
+
+BIS will evaluate requests to increase authorized shares on a case-by-case basis, in conjunction with industry-specific norms and potential dilution, as well as a company’s history with respect to the use of its common shares.
+
+Increase or issuance of preferred stock
+
+We generally support proposals to increase or issue preferred stock in cases where the company specifies the voting, dividend, conversion, and other rights of such stock and where the terms of the preferred stock appear reasonable.
+
+Stock splits
+
+We generally support stock splits that are not likely to negatively affect the ability to trade shares or the economic value of a share. We generally support reverse stock splits that are designed to avoid delisting or to facilitate trading in the stock, where the reverse split will not have a negative impact on share value (e.g., one class is reduced while others remain at pre-split levels). In the event of a proposal for a reverse split that would not proportionately reduce the company’s authorized stock, we apply the same analysis we would use for a proposal to increase authorized stock.
+
+MERGERS, ACQUISITIONS, ASSET SALES, AND OTHER SPECIAL TRANSACTIONS
+
+In assessing mergers, acquisitions, asset sales, or other special transactions — including business combinations involving Special Purpose Acquisition Companies (“SPACs”) — BIS’ primary consideration is the long-term economic interests of our clients as shareholders. We expect boards proposing a transaction to clearly explain the economic and strategic rationale behind it. We will review a proposed transaction to determine the degree to which it enhances long-term shareholder value. While mergers, acquisitions, asset sales, business combinations, and other special transaction proposals vary widely in scope and substance, we closely examine certain salient features in our analyses, such as:
+
+ 
+
+ 	•	 	
+The degree to which the proposed transaction represents a premium to the company’s trading price. We consider the share price over multiple time periods prior to the date of the merger announcement. We may consider comparable transaction analyses provided by the parties’ financial advisors and our own valuation assessments. For companies facing insolvency or bankruptcy, a premium may not apply
+
+ 
+
+ 	•	 There should be clear strategic, operational, and/or financial rationale for the combination
+ 	•	 Unanimous board approval and arm’s-length negotiations are preferred. We will consider whether the transaction involves a dissenting board or does not appear to be the result of an arm’s-length bidding process. We may also consider whether executive and/or board members’ financial interests appear likely to affect their ability to place shareholders’ interests before their own
+ 	•	 We prefer transaction proposals that include the fairness opinion of a reputable financial advisor assessing the value of the transaction to shareholders in comparison to recent similar transactions
+
+Poison pill plans
+
+Where a poison pill is put to a shareholder vote by management, our policy is to examine these plans individually. Although we have historically opposed most plans, we may support plans that include a reasonable “qualifying offer clause.” Such clauses typically require shareholder ratification of the pill and stipulate a sunset provision whereby the pill expires unless it is renewed. These clauses also tend to specify that an all-cash bid for all shares that includes a fairness opinion and evidence of financing does not trigger the pill, but forces either a special meeting at which the offer is put to a shareholder vote or requires the board to seek the written consent of shareholders, where shareholders could rescind the pill at their discretion. We may also support a pill where it is the only effective method for protecting tax or other economic benefits that may be associated with limiting the ownership changes of individual shareholders.
+
+We generally vote in favor of shareholder proposals to rescind poison pills.
+
+Reimbursement of expense for successful shareholder campaigns
+
+We generally do not support shareholder proposals seeking the reimbursement of proxy contest expenses, even in situations where we support the shareholder campaign. We believe that introducing the possibility of such reimbursement may incentivize disruptive and unnecessary shareholder campaigns.
+
+EXECUTIVE COMPENSATION
+
+BIS expects a company’s board of directors to put in place a compensation structure that incentivizes and rewards executives appropriately and is aligned with shareholder interests, particularly the generation of sustainable long-term value.
+
+We expect the compensation committee to carefully consider the specific circumstances of the company and the key individuals the board is focused on incentivizing. We encourage companies to ensure that their compensation plans incorporate appropriate and rigorous performance metrics consistent with corporate strategy and market practice. Performance-based compensation should include metrics that are relevant to the business and stated strategy or risk mitigation efforts. Goals, and the processes used to set these goals, should be clearly articulated and appropriately rigorous. We use third party research, in addition to our own analysis, to evaluate existing and proposed compensation structures. We hold members of the compensation committee, or equivalent board members, accountable for poor compensation practices or structures.
+
+BIS believes that there should be a clear link between variable pay and company performance that drives value creation for our clients as shareholders. We are generally not supportive of one-off or special bonuses unrelated to company or individual performance. Where discretion has been used by the compensation committee, we expect disclosure relating to how and why the discretion was used and further, how the adjusted outcome is aligned with the interests of shareholders.
+
+We acknowledge that the use of peer group evaluation by compensation committees can help calibrate competitive pay; however, we are concerned when the rationale for increases in total compensation is solely based on peer benchmarking, rather than absolute outperformance.
+
+We support incentive plans that foster the sustainable achievement of results — both financial and non-financial, including ESG — consistent with the company’s strategic initiatives. The vesting and holding timeframes associated with incentive plans should facilitate a focus on long-term value creation. Compensation committees should guard against contractual arrangements that would entitle executives to material compensation for early termination of their contract. Finally, pension contributions and other deferred compensation arrangements should be reasonable in light of market practices. Our publicly available commentary provides more information on our approach to executive compensation.
+
+“Say on Pay” advisory resolutions
+
+In cases where there is a “Say on Pay” vote, BIS will respond to the proposal as informed by our evaluation of compensation practices at that particular company and in a manner that appropriately addresses the specific question posed to shareholders. Where we conclude that a company has failed to align pay with performance, we will vote against the management compensation proposal and relevant compensation committee members.
+
+Frequency of “Say on Pay” advisory resolutions
+
+BIS will generally support annual advisory votes on executive compensation. We believe shareholders should have the opportunity to express feedback on annual incentive programs and changes to long-term compensation before multiple cycles are issued.
+
+Clawback proposals
+
+We generally favor recoupment from any senior executive whose compensation was based on faulty financial reporting or deceptive business practices. We also favor recoupment from any senior executive whose behavior caused material financial harm to shareholders, material reputational risk to the company, or resulted in a criminal proceeding, even if such actions did not ultimately result in a material restatement of past results. This includes, but is not limited to, settlement agreements arising from such behavior and paid for directly by the company. We typically support shareholder proposals on these matters unless the company already has a robust clawback policy that sufficiently addresses our concerns.
+
+Employee stock purchase plans
+
+We believe employee stock purchase plans (“ESPP”) are an important part of a company’s overall human capital management strategy and can provide performance incentives to help align employees’ interests with those of shareholders. The most common form of ESPP qualifies for favorable tax treatment under Section 423 of the Internal Revenue Code. We will typically support qualified ESPP proposals.
+
+Equity compensation plans
+
+BIS supports equity plans that align the economic interests of directors, managers, and other employees with those of shareholders. We believe that boards should establish policies prohibiting the use of equity awards in a manner that could disrupt the intended alignment with shareholder interests (e.g., the use of stock as collateral for a loan; the use of stock in a margin account; the use of stock in hedging or derivative transactions). We may support shareholder proposals requesting the establishment of such policies.
+
+Our evaluation of equity compensation plans is based on a company’s executive pay and performance relative to peers and whether the plan plays a significant role in a pay-for-performance disconnect. We generally oppose plans that contain “evergreen” provisions, which allow for the unlimited increase of shares reserved without requiring further shareholder approval after a reasonable time period. We also generally oppose plans that allow for repricing without shareholder approval. We may also oppose plans that provide for the acceleration of vesting of equity awards even in situations where an actual change of control may not occur. We encourage companies to structure their change of control provisions to require the termination of the covered employee before acceleration or special payments are triggered (commonly referred to as “double trigger” change of control provisions).
+
+Golden parachutes
+
+We generally view golden parachutes as encouragement to management to consider transactions that might be beneficial to shareholders. However, a large potential pay-out under a golden parachute arrangement also presents the risk of motivating a management team to support a sub-optimal sale price for a company.
+
+When determining whether to support or oppose an advisory vote on a golden parachute plan, BIS may consider several factors, including:
+
+ 
+
+ 	•	Whether we believe that the triggering event is in the best interests of shareholders
+ 	•	Whether management attempted to maximize shareholder value in the triggering event
+ 	•	The percentage of total premium or transaction value that will be transferred to the management team, rather than shareholders, as a result of the golden parachute payment
+ 	•	Whether excessively large excise tax gross-up payments are part of the pay-out
+ 	•	Whether the pay package that serves as the basis for calculating the golden parachute payment was reasonable in light of performance and peers
+ 	•	Whether the golden parachute payment will have the effect of rewarding a management team that has failed to effectively manage the company
+
+It may be difficult to anticipate the results of a plan until after it has been triggered; as a result, BIS may vote against a golden parachute proposal even if the golden parachute plan under review was approved by shareholders when it was implemented.
+
+We may support shareholder proposals requesting that implementation of such arrangements require shareholder approval.
+
+Option exchanges
+
+We believe that there may be legitimate instances where underwater options create an overhang on a company’s capital structure and a repricing or option exchange may be warranted. We will evaluate these instances on a case-by-case basis. BIS may support a request to reprice or exchange underwater options under the following circumstances:
+
+ 
+
+ 	•	The company has experienced significant stock price decline as a result of macroeconomic trends, not individual company performance
+ 	•	Directors and executive officers are excluded; the exchange is value neutral or value creative to shareholders; tax, accounting, and other technical considerations have been fully contemplated
+ 	•	There is clear evidence that absent repricing, the company will suffer serious employee incentive or retention and recruiting problems
+
+BIS may also support a request to exchange underwater options in other circumstances, if we determine that the exchange is in the best interests of shareholders.
+
+Supplemental executive retirement plans
+
+BIS may support shareholder proposals requesting to put extraordinary benefits contained in supplemental executive retirement plans (“SERP”) to a shareholder vote unless the company’s executive pension plans do not contain excessive benefits beyond what is offered under employee-wide plans.
+
+ENVIRONMENTAL AND SOCIAL ISSUES
+
+We believe that well-managed companies deal effectively with material ESG factors relevant to their businesses. Governance is the core means by which boards can oversee the creation of sustainable long-term value. Appropriate risk oversight of environmental and social (“E&S”) considerations stems from this construct.
+
+Robust disclosure is essential for investors to effectively gauge the impact of companies’ business practices and strategic planning related to E&S risks and opportunities. When a company’s reporting is inadequate, investors, including BlackRock, will increasingly conclude that the company is not appropriately managing risk. Given the increased understanding of material sustainability risks and opportunities, and the need for better information to assess them, BIS will advocate for continued improvement in companies’ reporting and will express concerns through our voting where disclosures or the business practices underlying them are inadequate.
+
+BIS encourages companies to disclose their approach to maintaining a sustainable business model. We believe that reporting aligned with the framework developed by the Task Force on Climate-related Financial Disclosures (“TCFD”), supported by industry-specific metrics such as those identified by the Sustainability Accounting Standards Board (“SASB”), can provide a comprehensive picture of a company’s sustainability approach and performance. While the TCFD framework was developed to support climate-related risk disclosure, the four pillars of the TCFD — Governance, Strategy, Risk Management, and Metrics and Targets — are a useful way for companies to disclose how they identify, assess, manage, and oversee a variety of sustainability-related risks and opportunities. SASB’s industry-specific guidance (as identified in its materiality map) is beneficial in helping companies identify key performance indicators (“KPIs”) across various dimensions of sustainability that are considered to be financially material and decision-useful within their industry. We recognize that some companies may report using different standards, which may be required by regulation, or one of a number of private standards. In such cases, we ask that companies highlight the metrics that are industry- or company-specific.
+
+Accordingly, we ask companies to:
+
+ 
+
+ 	•	Disclose the identification, assessment, management, and oversight of sustainability-related risks in accordance with the four pillars of TCFD
+ 	•	Publish investor-relevant, industry-specific, material metrics and rigorous targets, aligned with SASB or comparable sustainability reporting standards
+
+Companies should also disclose any supranational standards adopted, the industry initiatives in which they participate, any peer group benchmarking undertaken, and any assurance processes to help investors understand their approach to sustainable and responsible business conduct.
+
+Climate risk
+
+BlackRock believes that climate change has become a defining factor in companies’ long-term prospects. We ask every company to help its investors understand how it may be impacted by climate-related risk and opportunities, and how these factors are considered within strategy in a manner consistent with the company’s business model and sector. Specifically, we ask companies to articulate how their business model is aligned to a scenario in which global warming is limited to well below 2°C, moving towards global net zero emissions by 2050.
+
+BIS understands that climate change can be very challenging for many companies, as they seek to drive long-term value by mitigating risks and capturing opportunities. A growing number of companies, financial institutions, as well as governments, have committed to advancing net zero. There is growing consensus that companies can benefit from the more favorable macro-economic environment under an orderly, timely, and just transition to net zero.(	
+For example, BlackRock’s Capital Markets Assumptions anticipate 25 points of cumulative economic gains over a 20-year period in an orderly transition as compared to the alternative. This better macro environment will support better economic growth, financial stability, job growth, productivity, as well as ecosystem stability and health outcomes.) Many companies are asking what their role should be in contributing to a just transition — in ensuring a reliable energy supply and protecting the most vulnerable from energy price shocks and economic dislocation. They are also seeking more clarity as to the public policy path that will help align greenhouse gas reduction actions with commitments.
+
+In this context, we ask companies to disclose a business plan for how they intend to deliver long-term financial performance through the transition to global net zero, consistent with their business model and sector. We encourage companies to demonstrate that their plans are resilient under likely decarbonization pathways, and the global aspiration to limit warming to 1.5°C.(The global aspiration is reflective of aggregated efforts; companies in developed and emerging markets are not equally equipped to transition their business and reduce emissions at the same rate — those in developed markets with the largest market capitalization are better positioned to adapt their business models at an accelerated pace. Government policy and regional targets may be reflective of these realities.) We also encourage companies to disclose how considerations related to having a reliable energy supply and just transition affect their plans.
+
+We look to companies to set short-, medium-, and long-term science-based targets, where available for their sector, for greenhouse gas reductions and to demonstrate how their targets are consistent with the long-term economic interests of their shareholders. Companies have an opportunity to use and contribute to the development of alternative energy sources and low-carbon transition technologies that will be essential to reaching net zero. We also recognize that some continued investment is required to maintain a reliable, affordable supply of fossil fuels during the transition. We ask companies to disclose how their capital allocation across alternatives, transition technologies, and fossil fuel production is consistent with their strategy and their emissions reduction targets.
+
+In determining how to vote, we will continue to assess whether a company’s disclosures are aligned with the TCFD and provide short-, medium-, and long-term reduction targets for Scope 1 and 2 emissions. We may signal concerns about a company’s plans or disclosures in our voting on director elections, particularly at companies facing material climate risks. We may support shareholder proposals that ask companies to disclose climate plans aligned with our expectations. Our publicly available commentary provides more information on our approach to climate risk.
+
+Key stakeholder interests
+
+We believe that in order to deliver long-term value for shareholders, companies should also consider the interests of their key stakeholders. While stakeholder groups may vary across industries, they are likely to include employees; business partners (such as suppliers and distributors); clients and consumers; government and regulators; and the communities in which a company operates. Companies that build strong relationships with their key stakeholders are more likely to meet their own strategic objectives, while poor relationships may create adverse impacts that expose a company to legal, regulatory, operational, and reputational risks and jeopardize their social license to operate. We expect companies to effectively oversee and mitigate these risks with appropriate due diligence processes and board oversight. Our publicly available commentaries provide more information on our approach.
+
+Human capital management
+
+A company’s approach to human capital management (“HCM”) is a critical factor in fostering an inclusive, diverse, and engaged workforce, which contributes to business continuity, innovation, and long-term value creation. Consequently, we expect companies to demonstrate a robust approach to HCM and provide shareholders with disclosures to understand how their approach aligns with their stated strategy and business model.
+
+We believe that clear and consistent disclosures on these matters are critical for investors to make an informed assessment of a company’s HCM practices. We expect companies to disclose the steps they are taking to advance diversity, equity, and inclusion; job categories and workforce demographics; and their responses to the U.S. Equal Employment Opportunity Commission’s EEO-1 Survey. Where we believe a company’s disclosures or practices fall short relative to the market or peers, or we are unable to ascertain the board and management’s effectiveness in overseeing related risks and opportunities, we may vote against members of the appropriate committee or support relevant shareholder proposals. Our publicly available commentary provides more information on our approach to HCM.
+
+ 
+Corporate political activities
+
+Companies may engage in certain political activities, within legal and regulatory limits, in order to support public policy matters material to the companies’ long-term strategies. These activities can also create risks, including: the potential for allegations of corruption; certain reputational risks; and risks that arise from the complex legal, regulatory, and compliance considerations associated with corporate political spending and lobbying activity. Companies that engage in political activities should develop and maintain robust processes to guide these activities and mitigate risks, including board oversight.
+
+When presented with shareholder proposals requesting increased disclosure on corporate political activities, BIS will evaluate publicly available information to consider how a company’s lobbying and political activities may impact the company. We will also evaluate whether there is general consistency between a company’s stated positions on policy matters material to its strategy and the material positions taken by significant industry groups of which it is a member. We may decide to support a shareholder proposal requesting additional disclosures if we identify a material inconsistency or feel that further transparency may clarify how the company’s political activities support its long-term strategy. Our publicly available commentary provides more information on our approach to corporate political activities.
+
+GENERAL CORPORATE GOVERNANCE MATTERS
+
+Adjourn meeting to solicit additional votes
+
+We generally support such proposals unless the agenda contains items that we judge to be detrimental to shareholders’ best long-term economic interests.
+
+Bundled proposals
+
+We believe that shareholders should have the opportunity to review substantial governance changes individually without having to accept bundled proposals. Where several measures are grouped into one proposal, BIS may reject certain positive changes when linked with proposals that generally contradict or impede the rights and economic interests of shareholders.
+
+Exclusive forum provisions
+
+BIS generally supports proposals to seek exclusive forum for certain shareholder litigation. In cases where a board unilaterally adopts exclusive forum provisions that we consider unfavorable to the interests of shareholders, we will vote against the independent chair or lead independent director and members of the nominating/governance committee.
+
+Multi-jurisdictional companies
+
+Where a company is listed on multiple exchanges or incorporated in a country different from its primary listing, we will seek to apply the most relevant market guideline(s) to our analysis of the company’s governance structure and specific proposals on the shareholder meeting agenda. In doing so, we typically consider the governance standards of the company’s primary listing, the market standards by which the company governs itself, and the market context of each specific proposal on the agenda. If the relevant standards are silent on the issue under consideration, we will use our professional judgment as to what voting outcome would best protect the long-term economic interests of investors. We expect companies to disclose the rationale for their selection of primary listing, country of incorporation, and choice of governance structures, particularly where there is conflict between relevant market governance practices.
+
+Other business
+
+We oppose voting on matters where we are not given the opportunity to review and understand those measures and carry out an appropriate level of shareholder oversight.
+
+Reincorporation
+
+Proposals to reincorporate from one state or country to another are most frequently motivated by considerations of anti-takeover protections, legal advantages, and/or cost savings. We will evaluate, on a case-by-case basis, the economic and strategic rationale behind the company’s proposal to reincorporate. In all instances, we will evaluate the changes to shareholder protections under the new charter/articles/bylaws to assess whether the move increases or decreases shareholder protections. Where we find that shareholder protections are diminished, we may support reincorporation if we determine that the overall benefits outweigh the diminished rights.
+
+IPO governance
+
+We expect boards to consider and disclose how the corporate governance structures adopted upon initial public offering (“IPO”) are in shareholders’ best long-term interests. We also expect boards to conduct a regular review of corporate governance and control structures, such that boards might evolve foundational corporate governance structures as company circumstances change, without undue costs and disruption to shareholders. In our letter on unequal voting structures, we articulate our view that “one vote for one share” is the preferred structure for publicly-traded companies. We also recognize the potential benefits of dual class shares to newly public companies as they establish themselves; however, we believe that these structures should have a specific and limited duration. We will generally engage new companies on topics such as classified boards and supermajority vote provisions to amend bylaws, as we believe that such arrangements may not be in the best interest of shareholders in the long-term.
+
+We will typically apply a one-year grace period for the application of certain director-related guidelines (including, but not limited to, responsibilities on other public company boards and board composition concerns), during which we expect boards to take steps to bring corporate governance standards in line with our expectations.
+
+Further, if a company qualifies as an emerging growth company (an “EGC”) under the Jumpstart Our Business Startups Act of 2012 (the “JOBS Act”), we will give consideration to the NYSE and NASDAQ governance exemptions granted under the JOBS Act for the duration such a company is categorized as an EGC. We expect an EGC to have a totally independent audit committee by the first anniversary of its IPO, with our standard approach to voting on auditors and audit-related issues applicable in full for an EGC on the first anniversary of its IPO.
+
+Corporate form
+
+Proposals to change a corporation’s form, including those to convert to a public benefit corporation (“PBC”) structure, should clearly articulate how the interests of shareholders and different stakeholders would be augmented or adversely affected, as well as the accountability and voting mechanisms that would be available to shareholders. We generally support management proposals if our analysis indicates that shareholders’ interests are adequately protected. Corporate form shareholder proposals are evaluated on a case-by-case basis.
+
+SHAREHOLDER PROTECTIONS
+
+Amendment to charter/articles/bylaws
+
+We believe that shareholders should have the right to vote on key corporate governance matters, including changes to governance mechanisms and amendments to the charter/articles/bylaws. We may vote against certain directors where changes to governing documents are not put to a shareholder vote within a reasonable period of time, particularly if those changes have the potential to impact shareholder rights (see “Director elections”). In cases where a board’s unilateral adoption of changes to the charter/articles/bylaws promotes cost and operational efficiency benefits for the company and its shareholders, we may support such action if it does not have a negative effect on shareholder rights or the company’s corporate governance structure.
+
+When voting on a management or shareholder proposal to make changes to the charter/articles/bylaws, we will consider in part the company’s and/or proponent’s publicly stated rationale for the changes; the company’s governance profile and history; relevant jurisdictional laws; and situational or contextual circumstances which may have motivated the proposed changes, among other factors. We will typically support amendments to the charter/articles/bylaws where the benefits to shareholders outweigh the costs of failing to make such changes.
+
+Proxy access
+
+We believe that long-term shareholders should have the opportunity, when necessary and under reasonable conditions, to nominate directors on the company’s proxy card.
+
+In our view, securing the right of shareholders to nominate directors without engaging in a control contest can enhance shareholders’ ability to meaningfully participate in the director election process, encourage board attention to shareholder interests, and provide shareholders an effective means of directing that attention where it is lacking. Proxy access mechanisms should provide shareholders with a reasonable opportunity to use this right without stipulating overly restrictive or onerous parameters for use, and also provide assurances that the mechanism will not be subject to abuse by short-term investors, investors without a substantial investment in the company, or investors seeking to take control of the board.
+
+In general, we support market-standardized proxy access proposals, which allow a shareholder (or group of up to 20 shareholders) holding three percent of a company’s outstanding shares for at least three years the right to nominate the greater of up to two directors or 20% of the board. Where a standardized proxy access provision exists, we will generally oppose shareholder proposals requesting outlier thresholds.
+
+Right to act by written consent
+
+In exceptional circumstances and with sufficiently broad support, shareholders should have the opportunity to raise issues of substantial importance without having to wait for management to schedule a meeting. We therefore believe that shareholders should have the right to solicit votes by written consent provided that: 1) there are reasonable requirements to initiate the consent solicitation process (in order to avoid the waste of corporate resources in addressing narrowly supported interests); and 2) shareholders receive a minimum of 50% of outstanding shares to effectuate the action by written consent. We may oppose shareholder proposals requesting the right to act by written consent in cases where the proposal is structured for the benefit of a dominant shareholder to the exclusion of others, or if the proposal is written to discourage the board from incorporating appropriate mechanisms to avoid the waste of corporate resources when establishing a right to act by written consent. Additionally, we may oppose shareholder proposals requesting the right to act by written consent if the company already provides a shareholder right to call a special meeting that we believe offers shareholders a reasonable opportunity to raise issues of substantial importance without having to wait for management to schedule a meeting.
+
+Right to call a special meeting
+
+In exceptional circumstances and with sufficiently broad support, shareholders should have the opportunity to raise issues of substantial importance without having to wait for management to schedule a meeting. Accordingly, shareholders should have the right to call a special meeting in cases where a reasonably high proportion of shareholders (typically a minimum of 15% but no higher than 25%) are required to agree to such a meeting before it is called. However, we may oppose this right in cases where the proposal is structured for the benefit of a dominant shareholder, or where a lower threshold may lead to an ineffective use of corporate resources. We generally believe that a right to act via written consent is not a sufficient alternative to the right to call a special meeting.
+
+Simple majority voting
+
+We generally favor a simple majority voting requirement to pass proposals. Therefore, we will support the reduction or the elimination of supermajority voting requirements to the extent that we determine shareholders’ ability to protect their economic interests is improved. Nonetheless, in situations where there is a substantial or dominant shareholder, supermajority voting may be protective of minority shareholder interests and we may support supermajority voting requirements in those situations.
+
+Virtual meetings
+
+Shareholders should have the opportunity to participate in the annual and special meetings for the companies in which they are invested, as these meetings facilitate an opportunity for shareholders to provide feedback and hear from the board and management. While these meetings have traditionally been conducted in-person, virtual meetings are an increasingly viable way for companies to utilize technology to facilitate shareholder accessibility, inclusiveness, and cost efficiencies. We expect shareholders to have a meaningful opportunity to participate in the meeting and interact with the board and management in these virtual settings; companies should facilitate open dialogue and allow shareholders to voice concerns and provide feedback without undue censorship. Relevant shareholder proposals are assessed on a case-by-case basis.
+
