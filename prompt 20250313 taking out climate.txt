@@ -1,0 +1,25 @@
+Follow these Steps to structure your response, and add all scores from Steps 1, 2, and 3 to assign a maximum score 100 to the policies. 
+
+Step 1. Assess the extent to which the fund manager articulates, as part of fiduciary duty or stewardship, its responsibility of monitoring portfolio firms for their effective identification, management, and reporting of climate risks. 
+
+If the fund manager clearly states these responsibilities, assign a score up to 30 for this Step. If the fiduciary duty expresses the responsibility only vaguely, then assign 0 for this Step. 
+
+Step 2. Assess the extent to which the fund manager expects its portfolio firms to disclose, or to proactively manage, the following items:
+	•	The impact of climate changes on their business;
+	•	How the portfolio firms have adjusted, or plan to adjust, their governance, risk assessment, and their performance indicators in response to climate changes; or
+	•	Reporting standards for the disclosure of the above two bullet points, if they have adopted.
+
+If the expectations described is comprehensive, assign a score up to 30 for this Step. If the expectations are described only vaguely, then assign 0 for this Step. 
+
+Step 3. Assess the extent to which the fund manager is determined to take disciplinary action, including:
+	•	The fund manager's direct engagement with a portfolio firm's management to ascertain whether a portfolio firm has taken or is in the process of implementing sufficient steps to address climate risks; or
+	•	The fund manager's actions in case where a portfolio firm is found to have inadequately addressed climate risks, including (a) voting against the management, and/or (b) support for shareholder proposals advocating for the proper management of climate risks. 
+
+If the determination described in this Step is strong, assign up to 40 for this Step. If the determination is only vaguely, then assign 0 for this Step. 
+
+
+Your response should be in a json format with the following keys: (i) score and (ii) rationale.
+
+(i) Score is an integer, ranging from 0 to 100, which represents the commitment' effectiveness in mitigating its climate risks that portfolio firms face. In assigning the scores, consider descriptions about environmental, social, or sustainability (ESG) issues as only marginally related to climate risk issues and do not assign high scores; only assess specific references to climate risks towards the score. 
+
+(ii) Rationale is a concise explanation (under 50 words) that explains your logic behind the assigned score.

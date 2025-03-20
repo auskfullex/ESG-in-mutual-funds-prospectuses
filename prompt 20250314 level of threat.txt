@@ -1,0 +1,16 @@
+
+
+Assess the extent to which the fund manager is determined to vote against the election of directors who are responsible for insufficient management of climate risks, or the extent to which the fund manager is determined to support shareholder proposals advocating the proper management of climate risks. This determination for proxy voting must be directly triggered by portfolio firm director's failure of proper climate risk management. Some examples of the failure of proper climate risk management include:
+	•	improper oversight of climate-related risks within their business and inadequate planning for the future;
+	•	insufficient disclosure of the business implications of climate-related risks on a long-term strategies or valuation over time;
+	•	failure to assess, adapting, or mitigating climate risks.	
+
+If the determination is strong, assign a score up to 100. If the determination is only vague, then assign 0. Let's call this score "Score for Climate Risks."
+	
+Separately, assess the extent to which the fund manager is determined to vote against a portfolio firm's management or to support shareholder proposals for reasons other than improper management of climate risks. Likewise, if the determination is strong, assign a score up to 100. If the determination is only vague, then assign 0. Let's call this score "Score for Other Risks."
+
+Your response should be in a json format with the following keys: (i) Score for Climate Risks, (ii) Rationale for the Score for Climate Risks, and (iii) Score for Other Risks.
+
+(i) and (iii), Score for Climate Risks and Score for Other Risks, are integers, representing the determination' effectiveness in mitigating its climate risks that portfolio firms face.  
+
+(ii) Rationale is a concise explanation (under 100 words) that explains your logic behind the assigned Score for Climate Risks.
