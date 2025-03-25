@@ -14,12 +14,11 @@ If Step 2 result of a mention is true, i.e., the mention does include climate ri
 The scores range between 0 and 100, 0 for a weak and vague determination and 100 for a strong and detailed determination.
 
 Refer to the following examples.
-(1) Assign a high score for Step 3, if mentions identified in Step 1 clarify the fund manager's expectations for its portfolio firms, where a failure to fulfil the expectations may trigger the fund manager's voting against management or supporting shareholder proposals.
-(2) Assign a high score for Step 3, if the mentions illustrate circumstances where the fund manager to vote against management or to support shareholder proposals.
-(3) Assign a low score for Step 3, if the mentions use a weak tone, such as "may" or "possibly."
-(4) Assign a high score for Step 4, if the mentions list the climate risk management as the fund manager's fiduciary duty.
-(5) Assign a high score for Step 4, if the mentions specifically call for portfolio firms to take actions to reduce climate risks.
-(6) Assign zero for the Score for Climate Risks, if the mentions do not explicitly refer to climate risks but rather indirectly imply it by using general terms such as "environmental" or "social" issues.
+(1) Assign a low score at Step 3, if mentions identified in Step 1 do not explicitly state the fund manager's expectations for its portfolio firms, where a failure to fulfil the expectations may trigger the fund manager's voting against management or supporting shareholder proposals.
+(2) Assign a high score at Step 3, if the mentions illustrate circumstances where the fund manager to vote against management or to support shareholder proposals.
+(3) Assign a high score at Step 4, if the mentions list the climate risk management as the fund manager's fiduciary duty.
+(4) Assign a high score at Step 4, if the mentions specifically call for portfolio firms to take actions to reduce climate risks.
+(5) Assign zero for the Score for Climate Risks, if the mentions do not explicitly refer to climate risks but rather indirectly imply it by using general terms such as "environmental" or "social" issues.
 
 Your response should be in a json format with the following keys: (i) Score for Climate Risks, (ii) Rationale for the Score for Climate Risks, (iii) Score for Other Risks, and (iv) Rationale for the Score for Other Issues. The two rationales are a concise explanation (under 100 words) that explains your logic behind the assigned scores.
 
