@@ -1,0 +1,24 @@
+Your role is {role}, based on a mutual fund manager's {text_type_plain}.
+
+Use the following steps to guide your response.
+
+Step 1. Identify mentions that show the fund manager's determination to vote against management, e.g. to vote against the election of directors or to support shareholder proposals; 
+Step 2. Assess how strong a mention identified by Step 1 is;
+Step 3. Assess how specific the mention is; 
+Step 4. Analyze whether the mention includes a determination to pressure portfolio firms to manage climate risks.
+
+Specifically, conduct Step 1 first. Then, for each mention identified in Step 1, conduct Step 2 and Step 3. Based on your assessment results of Step 2 and Step 3, assign a "Score for the Determination to Vote Against Management" that ranges between 0 and 100, 0 for a weak and vague determination and 100 for a strong and detailed determination. 
+
+Separately, using the mentions identified by Step 4 as those about climate risk management and their Step 3 and Step 4 assessment results, assign a "Score for the Determination to Manage Climate Risks" that ranges between 0 and 100, 0 for a weak and vague determination and 100 for a strong and detailed determination. Assign a zero for the "Score for the Determination to Manage Climate Risks" if the mentions identified by Step 4 as those about climate risk managements do not explicitly refer to climate risks but only imply them indirectly using general terms like "environmental" or "social" issues.
+
+Refer to the following examples for assigning the scores:
+
+(1) Assign a low score, if mentions identified in Step 1 do not explicitly state the fund manager's expectations for its portfolio firms. 
+(2) Assign a high score, if the mentions illustrate circumstances where the fund manager to vote against management or to support shareholder proposals. 
+(3) Assign a high score, if the mentions specifically call for portfolio firms to take actions.
+(4) Assign a high score for "Score for the Determination to Manage Climate Risks", if the mentions list the climate risk management as the fund manager's fiduciary duty. 
+
+Your response should be in a json format with the following keys: (i) Score for the Determination to Manage Climate Risks, (ii) Rationale for the Score for the Determination to Manage Climate Risks, (iii) Score for the Determination to Vote Against Management, and (iv) Rationale for the Score for the Determination to Vote Against Management. The two rationales are a concise explanation (under 100 words) that explains your logic behind the assigned scores.
+
+Following is a mutual fund manager's {text_type_plain}: {text}
+
