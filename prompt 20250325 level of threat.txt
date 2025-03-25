@@ -13,11 +13,11 @@ If Step 2 result of a mention is true, i.e., the mention does include climate ri
 
 The scores range between 0 and 100, 0 for a weak and vague determination and 100 for a strong and detailed determination.
 
-Refer to the following examples.
-(1) Assign a low Score for Climate Risks, if mentions identified in Step 1 do not explicitly state the fund manager's expectations for its portfolio firms' climate risk management. Assign zero for the Score for Climate Risks, if the mentions do not explicitly refer to climate risks but rather indirectly imply it by using general terms such as "environmental" or "social" issues.
-(2) Assign a high Score for Climate Risks, if the mentions illustrate circumstances of climate risk management where the fund manager to vote against management or to support shareholder proposals. Assign zero for the Score for Climate Risks, if the mentions do not explicitly refer to climate risks but rather indirectly imply it by using general terms such as "environmental" or "social" issues.
-(3) Assign a high Score for Climate Risks, if the mentions list the climate risk management as the fund manager's fiduciary duty. Assign zero for the Score for Climate Risks, if the mentions do not explicitly refer to climate risks but rather indirectly imply it by using general terms such as "environmental" or "social" issues.
-(4) Assign a high Score for Climate Risks, if the mentions specifically call for portfolio firms to take actions to reduce climate risks. Assign zero for the Score for Climate Risks, if the mentions do not explicitly refer to climate risks but rather indirectly imply it by using general terms such as "environmental" or "social" issues.
+Refer to the following examples for assigning a Score for Climate Risks.
+(1) Assign a low score, if mentions identified in Step 1 do not explicitly state the fund manager's expectations for its portfolio firms' climate risk management. Assign a zero if the mentions do not explicitly refer to climate risks but only imply them indirectly using general terms like "environmental" or "social" issues.
+(2) Assign a high score, if the mentions illustrate circumstances of climate risk management where the fund manager to vote against management or to support shareholder proposals. Assign a zero if the mentions do not explicitly refer to climate risks but only imply them indirectly using general terms like "environmental" or "social" issues.
+(3) Assign a high score, if the mentions list the climate risk management as the fund manager's fiduciary duty. Assign a zero if the mentions do not explicitly refer to climate risks but only imply them indirectly using general terms like "environmental" or "social" issues.
+(4) Assign a high score, if the mentions specifically call for portfolio firms to take actions to reduce climate risks. Assign a zero if the mentions do not explicitly refer to climate risks but only imply them indirectly using general terms like "environmental" or "social" issues.
 
 Your response should be in a json format with the following keys: (i) Score for Climate Risks, (ii) Rationale for the Score for Climate Risks, (iii) Score for Other Risks, and (iv) Rationale for the Score for Other Issues. The two rationales are a concise explanation (under 100 words) that explains your logic behind the assigned scores.
 
