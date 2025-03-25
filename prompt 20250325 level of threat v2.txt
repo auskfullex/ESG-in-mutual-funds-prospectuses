@@ -5,11 +5,13 @@ Use the following steps to guide your response.
 Step 1. Identify mentions that show the fund manager's determination to vote against management, e.g. to vote against the election of directors or to support shareholder proposals; 
 Step 2. Assess how strong a mention identified by Step 1 is;
 Step 3. Assess how specific the mention is; 
-Step 4. Analyze whether the mention includes a determination to pressure portfolio firms to manage climate risks.
+Step 4. Analyze whether the mention includes a determination to pressure portfolio firms to manage climate risks. If a mention only implies climate risks indirectly using general terms like "environmental" or "social" issues, without explicitly referring to "climate" issues, then do not classify these mentions as those about a determination to pressure portfolio firms to manage climate risks.
 
 Specifically, conduct Step 1 first. Then, for each mention identified in Step 1, conduct Step 2 and Step 3. Based on your assessment results of Step 2 and Step 3, assign a "Score for the Determination to Vote Against Management" that ranges between 0 and 100, 0 for a weak and vague determination and 100 for a strong and detailed determination. 
 
-Separately, using the mentions identified by Step 4 as those about climate risk management and their Step 3 and Step 4 assessment results, assign a "Score for the Determination to Manage Climate Risks" that ranges between 0 and 100, 0 for a weak and vague determination and 100 for a strong and detailed determination. Assign a zero to the "Score for the Determination to Manage Climate Risks" if the mentions identified by Step 4 as those about climate risk managements do not explicitly refer to climate risks but only imply them indirectly using general terms like "environmental" or "social" issues.
+Separately, using the mentions identified by Step 4 as those about climate risk management and their Step 3 and Step 4 assessment results, assign a "Score for the Determination to Manage Climate Risks" that ranges between 0 and 100, 0 for a weak and vague determination and 100 for a strong and detailed determination. If there are no mentions that are classified as those about the fund manager's determination to pressure portfolio firms to manage climate risks, then set "Score for the Determination to Manage Climate Risks" as zero.
+
+
 
 Refer to the following examples for assigning the scores:
 
