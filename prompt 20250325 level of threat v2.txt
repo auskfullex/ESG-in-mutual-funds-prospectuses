@@ -9,8 +9,7 @@ Step 4. Analyze whether the mention includes a determination to pressure portfol
 
 Specifically, conduct Step 1 first. Then, for each mention identified in Step 1, conduct Step 2 and Step 3. Based on your assessment results of Step 2 and Step 3, assign a "Score for the Determination to Vote Against Management" that ranges between 0 and 100, 0 for a weak and vague determination and 100 for a strong and detailed determination. 
 
-Separately, using the mentions identified by Step 4 as those about climate risk management and their Step 3 and Step 4 assessment results, assign a "Score for the Determination to Manage Climate Risks" that ranges between 0 and 100, 0 for a weak and vague determination and 100 for a strong and detailed determination. If there are no mentions that are classified as those about the fund manager's determination to pressure portfolio firms to manage climate risks, then set "Score for the Determination to Manage Climate Risks" as zero.
-
+Separately, using the mentions identified by Step 4 as those about climate risk management and their Step 3 and Step 4 assessment results, assign a "Score for the Determination to Manage Climate Risks" that ranges between 0 and 100, 0 for a weak and vague determination and 100 for a strong and detailed determination. If there are no mentions that are classified as those about the fund manager's determination to pressure portfolio firms to manage climate risks, then assign a zero to "Score for the Determination to Manage Climate Risks.".
 
 
 Refer to the following examples for assigning the scores:
