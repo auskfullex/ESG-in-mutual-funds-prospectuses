@@ -1,0 +1,725 @@
+Global Proxy Voting and Engagement Principles
+
+State Street Global Advisors (“SSGA”), one of the industry’s largest institutional asset managers, is the investment management arm of State Street Corporation, a leading provider of financial services to institutional investors. As an investment manager, SSGA has discretionary proxy voting authority over most of its client accounts, and SSGA votes these proxies in the manner that we believe will most likely protect and promote the long-term economic value of client investments as described in this document i.
+
+ 
+
+A-1
+
+Table of Contents
+Global Proxy Voting and Engagement Principles
+
+ 
+
+State Street Global Advisors (“SSGA”) maintains Proxy Voting and Engagement Guidelines for select markets, including: Australia, the EU, Japan, New Zealand , North America (Canada and the US), the UK and emerging markets. International markets that do not have specific guidelines are reviewed and voted consistent with our Global Proxy Voting and Engagement Principles; however, SSGA also endeavors to show sensitivity to local market practices when voting in these various markets.
+
+SSGA’s Approach to Proxy Voting and Issuer Engagement
+
+At SSGA, we take our fiduciary duties as an asset manager very seriously. We have a dedicated team of corporate governance professionals who help us carry out our duties as a responsible investor. These duties include engaging with companies, developing and enhancing in-house corporate governance guidelines, analyzing corporate governance issues on a case-by-case basis at the company level, and exercising our voting rights–all to maximize shareholder value.
+
+SSGA’s Global Proxy Voting and Engagement Principles (the “Principles”) may take different perspectives on common governance issues that vary from one market to another and, likewise, engagement activity may take different forms in order to best achieve long-term engagement goals. We believe that proxy voting and engagement with portfolio companies is often the most direct and productive way shareholders can exercise their ownership rights, and taken together, we view these tools to be an integral part of the overall investment process.
+
+We believe engagement and voting activity have a direct relationship. As a result, the integration of our engagement activities, while leveraging the exercise of our voting rights, provides a meaningful shareholder tool that we believe protects and enhances the long-term economic value of the holdings in our client accounts. SSGA maximizes its voting power and engagement by maintaining a centralized proxy voting and active ownership process covering all holdings, regardless of strategy. Despite the different investment views and objectives across SSGA, depending on the product or strategy, the fiduciary responsibilities of share ownership and voting for which SSGA has voting discretion are carried out with a single voice and objective.
+
+The Principles support governance structures that we believe add to, or maximize shareholder value at the companies held in our clients’ portfolios. SSGA conducts issuer specific engagements with companies to discuss our principles, including sustainability related risks. In addition, we encourage issuers to find ways of increasing the amount of direct communication board members have with shareholders. We believe direct communication with
+
+executive board members and independent non-executive directors is critical to helping companies understand shareholder concerns. Conversely, where appropriate, we conduct collaborative engagement activities with multiple shareholders and communicate with company representatives about common concerns.
+
+In conducting our engagements, SSGA also evaluates the various factors that play into the corporate governance framework of a country, including but not limited to, the macroeconomic conditions and broader political system, the quality of regulatory oversight, the enforcement of property and shareholder rights and the independence of the judiciary. SSGA understands that regulatory requirements and investor expectations relating to governance practices and engagement activities differ from country-to-country. As a result, SSGA engages with issuers, regulators, or both, depending on the market. SSGA also is a member of various investor associations that seek to address broader corporate governance related policy at the country level as well as issuer specific concerns at a company level.
+
+To help mitigate company specific risk, the SSGA Asset Stewardship Team may collaborate with members of the active investment teams to engage with companies on corporate governance issues and address any specific concerns, or to get more information regarding shareholder items that are to be voted on at upcoming shareholder meetings. Outside of proxy voting season, SSGA conducts issuer specific engagements with companies covering various corporate governance and sustainability related topics.
+
+The SSGA Asset Stewardship Team uses a blend of quantitative and qualitative research and data to support screens to help identify issuers where active engagement may be necessary to protect and promote shareholder value. Issuer engagement may also be event driven, focusing on issuer specific corporate governance, sustainability concerns or wider industry related trends. SSGA also gives consideration to the size of our total position of the issuer in question and/or the potential negative governance, performance profile, and circumstance at hand. As a result, SSGA believes issuer engagement can take many forms and be triggered under numerous circumstances. The following methods represent how SSGA defines engagement methods:
+
+Active
+
+SSGA uses screening tools designed to capture a mix of company specific data including governance and sustainability profiles to help us focus our voting and engagement activity.
+
+SSGA will actively seek direct dialogue with the board and management of companies we have identified through our
+
+ 
+ 
+
+State Street Global Advisors	  	A-2	  	
+Table of Contents
+Global Proxy Voting and Engagement Principles
+
+ 
+
+screening processes. Such engagements may lead to further monitoring to ensure the company improves its governance or sustainability practices. In these cases, the engagement process represents the most meaningful opportunity for SSGA to protect long-term shareholder value from excessive risk due to poor governance and sustainability practices.
+
+Reactive
+
+Reactive engagement is initiated by the issuers. SSGA routinely discusses specific voting issues and items with the issuer community. Reactive engagement is an opportunity to address not only voting items, but also a wide range of governance and sustainability issues.
+
+SSGA has established an engagement protocol that further describes our approach to issuer engagement.
+
+Measurement
+
+Assessing the effectiveness of our issuer engagement process is often difficult. To limit the subjectivity of measuring our success we actively seek issuer feedback and monitor the actions issuers take post-engagement to identify tangible changes. By doing so, we are able to establish indicators to gauge how issuers respond to our concerns and to what degree these responses satisfy our requests. It is also important to note that successful engagement activity can be measured over differing time periods depending on the facts and circumstances involved. Engagements can last as short as a single meeting or span multiple years.
+
+Depending on the issue and whether the engagement activity is reactive, recurring, or active, engagement with issuers can take the form of written communication, conference calls, or face-to-face meetings. SSGA believes active engagement is best conducted directly with company management or board members. Collaborative engagement, where multiple shareholders communicate with company representatives, can serve as a potential forum for issues that are not identified by SSGA as requiring active engagement, such as shareholder conference calls.
+
+Proxy Voting Procedure
+
+Oversight
+
+The SSGA Asset Stewardship Team is responsible for developing and implementing the Proxy Voting and Engagement Guidelines (the “Guidelines”), case-by-case voting items, issuer engagement activities, and research and analysis of governance-related issues. The implementation of the Guidelines is overseen by the SSGA Global Proxy Review Committee (“PRC”), a committee of investment, compliance and legal professionals, who provide guidance on proxy issues as described in greater detail below. Oversight of the proxy voting process is ultimately the responsibility of the SSGA
+
+Investment Committee (“IC”). The IC reviews and approves amendments to the Guidelines. The PRC reports to the IC, and may refer certain significant proxy items to that committee.
+
+Proxy Voting Process
+
+In order to facilitate SSGA’s proxy voting process, SSGA retains Institutional Shareholder Services Inc. (“ISS”), a firm with expertise in proxy voting and corporate governance. SSGA utilizes ISS’s services in three ways: (1) as SSGA’s proxy voting agent (providing SSGA with vote execution and administration services); (2) for applying the Guidelines; and (3) as providers of research and analysis relating to general corporate governance issues and specific proxy items.
+
+The SSGA Asset Stewardship Team reviews the Guidelines with ISS on an annual basis or on a case-by-case basis as needed. On most routine proxy voting items (e.g., ratification of auditors), ISS will affect the proxy votes in accordance with the Guidelines.
+
+In other cases, the Asset Stewardship Team will evaluate the proxy solicitation to determine how to vote based on facts and circumstances, consistent with the Principles, and the accompanying Guidelines, that seek to maximize the value of our client accounts.
+
+In some instances, the Asset Stewardship Team may refer significant issues to the PRC for a determination of the proxy vote. In addition, in determining whether to refer a proxy vote to the PRC, the Asset Stewardship Team will consider whether a material conflict of interest exists between the interests of our client and those of SSGA or its affiliates (as explained in greater detail in our Conflict Mitigation Guidelines).
+
+SSGA votes in all markets where it is feasible; however, SSGA may refrain from voting meetings when power of attorney documentation is required, where voting will have a material impact on our ability to trade the security, where issuer-specific special documentation is required, or where various market or issuer certifications are required. SSGA is unable to vote proxies when certain custodians, used by our clients, do not offer proxy voting in a jurisdiction, or when they charge a meeting specific fee in excess of the typical custody service agreement.
+
+Conflict of Interest
+
+See SSGA’s standalone Conflict Mitigation Guidelines.
+
+ 
+ 
+
+State Street Global Advisors	  	A-3	  	
+Table of Contents
+Global Proxy Voting and Engagement Principles
+
+ 
+
+Proxy Voting and Engagement Principles
+
+Directors and Boards
+
+The election of directors is one of the most important fiduciary duties SSGA performs as a shareholder. SSGA believes that well-governed companies can protect and pursue shareholder interests better and withstand the challenges of an uncertain economic environment. As such, SSGA seeks to vote director elections in a way which we, as a fiduciary, believe will maximize the long-term value of each portfolio’s holdings.
+
+Principally, a board acts on behalf of shareholders by protecting their interests and preserving their rights. This concept establishes the standard by which board and director performance is measured. To achieve this fundamental principle, the role of the board, in SSGA’s view, is to carry out its responsibilities in the best long-term interest of the company and its shareholders. An independent and effective board oversees management, provides guidance on strategic matters, selects the CEO and other senior executives, creates a succession plan for the board and management, provides risk oversight and assesses the performance of the CEO and management. In contrast, management implements the business and capital allocation strategies and runs the company’s day-to-day operations. As part of SSGA’s engagement process, SSGA routinely discusses the importance of these responsibilities with the boards of issuers.
+
+SSGA believes the quality of a board is a measure of director independence, director succession planning, board diversity, evaluations and refreshment and company governance practices. In voting to elect nominees, SSGA considers many factors. SSGA believes independent directors are crucial to good corporate governance and help management establish sound corporate governance policies and practices. A sufficiently independent board will effectively monitor management, maintain appropriate governance practices and perform oversight functions necessary to protect shareholder interests. SSGA also believes the right mix of skills, independence, diversity and qualifications among directors provides boards with the knowledge and direct experience to deal with risks and operating structures that are often unique and complex from one industry to another.
+
+Accounting and Audit Related Issues
+
+SSGA believes audit committees are critical and necessary as part of the board’s risk oversight role. The audit committee is responsible for setting out an internal audit function to provide robust audit and internal control systems designed to effectively manage potential and emerging risks to the company’s operations and strategy. SSGA believes audit committees should have independent directors as members, and SSGA will hold the members of the audit committee responsible for overseeing the management of the audit function.
+
+The disclosure and availability of reliable financial statements in a timely manner is imperative for the investment process. As a result, board oversight of the internal controls and the independence of the audit process are essential if investors are to rely on financial statements. Also, it is important for the audit committee to appoint external auditors who are independent from management as we expect auditors to provide assurance as of a company’s financial condition.
+
+Capital Structure, Reorganization and Mergers
+
+The ability to raise capital is critical for companies to carry out strategy, grow and achieve returns above their cost of capital. The approval of capital raising activities is fundamental to a shareholder’s ability to monitor the amounts of proceeds and to ensure capital is deployed efficiently. Altering the capital structure of a company is a critical decision for boards and in making such a critical decision, SSGA believes the company should have a well explained business rationale that is consistent with corporate strategy and not overly dilutive to its shareholders.
+
+Mergers or reorganizing the structure of a company often involve proposals relating to reincorporation, restructurings, liquidations, and other major changes to the corporation.
+
+Proposals that are in the best interests of shareholders, demonstrated by enhancing share value or improving the effectiveness of the company’s operations, will be supported. In evaluating mergers and acquisitions, SSGA considers the adequacy of the consideration and the impact of the corporate governance provisions to shareholders. In all cases, SSGA uses its discretion in order to maximize shareholder value.
+
+Occasionally, companies add anti-takeover provisions that reduce the chances of a potential acquirer making an offer, or reducing the likelihood of a successful offer. SSGA does not support proposals that reduce shareholders’ rights, entrench management or reduce the likelihood of shareholders’ right to vote on reasonable offers.
+
+Compensation
+
+SSGA considers the board’s responsibility to include setting the appropriate level of executive compensation. Despite the differences among the types of plans and the awards possible, there is a simple underlying philosophy that guides SSGA’s analysis of executive compensation; SSGA believes that there should be a direct relationship between executive compensation and company performance over the long-term.
+
+Shareholders should have the opportunity to assess whether pay structures and levels are aligned with business performance. When assessing remuneration reports, SSGA considers factors such as adequate disclosure of different remuneration elements, absolute and relative pay levels, peer
+
+ 
+ 
+
+State Street Global Advisors	  	A-4	  	
+Table of Contents
+Global Proxy Voting and Engagement Principles
+
+ 
+
+selection and benchmarking, the mix of long-term and short-term incentives, alignment of pay structures with shareholder interests, as well as with corporate strategy and performance. SSGA may oppose remuneration reports where pay seems misaligned with shareholders’ interests. SSGA may also consider executive compensation practices when re-electing members of the remuneration committee.
+
+SSGA recognizes that compensation policies and practices are unique from market to market; often with significant differences between the level of disclosures, the amount and forms of compensation paid, and the ability of shareholders to approve executive compensation practices. As a result, our ability to assess the appropriateness of executive compensation is often dependent on market practices and laws.
+
+Environmental and Social Issues
+
+As a fiduciary, SSGA considers the financial and economic implications of environmental and social issues first and foremost. Environmental and social factors may not only have an impact on the reputation of companies but may also represent significant operational risks and costs to business. Well-developed environmental and social management systems can generate efficiencies and enhance productivity, both of which impact shareholder value in the long term.
+
+SSGA encourages companies to be transparent about the environmental and social risks and opportunities they face and adopt robust policies and processes to manage such issues. In our view, companies that manage all risks and consider opportunities related to environmental and social issues are able to adapt faster to changes and appear to be better placed to achieve sustainable competitive advantage in the long term. Similarly, companies with good risk management systems, which include environmental and social policies, have a stronger position relative to their peers to manage risk and change, which could be the result of anything from regulation and litigation, physical threats (severe weather, climate change), economic trends to shifts in consumer behavior.
+
+In their public reporting, we expect companies to disclose information on relevant management tools and material environmental and social performance metrics. We support efforts by companies to demonstrate how sustainability fits into operations and business activities. SSGA’s team of analysts evaluates these risks and shareholder proposals relating to them on an issuer by issuer basis; understanding that environmental and social risks can vary widely depending on a company, its industry, operations, and geographic footprint. SSGA may also take action against the re-election of board members if we have serious concerns over ESG practices and the company has not been responsive to shareholder requests to amend them.
+
+General/Routine
+
+Although SSGA does not seek involvement in the day-to-day operations of an organization, SSGA recognizes the need for conscientious oversight and input into management decisions that may affect a company’s value. SSGA supports proposals that encourage economically advantageous corporate practices and governance, while leaving decisions that are deemed to be routine or constitute ordinary business to management and the board of directors.
+
+Fixed Income Stewardship
+
+The two elements of SSGA’s fixed income stewardship program are:
+
+Proxy Voting:
+
+While matters that come up for a vote at bondholder meetings vary by jurisdiction, examples of common proxy voting resolutions at bondholder meetings include:
+
+ 
+
+ 	•	 	Approving amendments to debt covenants and/or terms of issuance;
+ 
+
+ 	•	 	Authorizing procedural matters such as filing of required documents/other formalities;
+ 
+
+ 	•	 	Approving debt restructuring plans;
+ 
+
+ 	•	 	Abstaining from challenging the bankruptcy trustees;
+ 
+
+ 	•	 	Authorizing repurchase of issued debt security;
+ 
+
+ 	•	 	Approving the placement of unissued debt securities under the control of directors; and,
+ 
+
+ 	•	 	Approve spin-off/absorption proposals.
+Given the nature of the items that come up for vote at bondholder meetings, SSGA takes a case-by-case approach to voting bondholder resolutions. Where necessary, SSGA will engage with issuers on voting matters prior to arriving at voting decisions. All voting decisions will be made in the best interest of our clients.
+
+Issuer Engagement:
+
+SSGA recognizes that debt holders have limited leverage with companies on a day-to-day basis. However, we believe that given the size of our holdings in corporate debt, SSGA can meaningfully influence ESG practices of companies through issuer engagement. Our guidelines for engagement with fixed income issuers broadly follow the engagement guidelines for our equity holdings as described above.
+
+Securities on Loan
+
+For funds where SSGA acts as trustee, SSGA may recall securities in instances where SSGA believes that a particular vote will have a material impact on the fund(s). Several factors shape this process. First, SSGA must receive notice of the vote in sufficient time to recall the shares on or before the record date. In many cases, SSGA does not receive timely
+
+ 
+ 
+
+State Street Global Advisors	  	A-5	  	
+Table of Contents
+Global Proxy Voting and Engagement Principles
+
+ 
+
+notice, and is unable to recall the shares on or before the record date. Second, SSGA, exercising its discretion may recall shares if it believes the benefit of voting shares will outweigh the foregone lending income. This determination requires SSGA, with the information available at the time, to form judgments about events or outcomes that are difficult to quantify. Given past experience in this area, however, we believe that the recall of securities will rarely provide an economic benefit that outweighs the cost of the foregone lending income.
+
+Reporting
+
+Any client who wishes to receive information on how its proxies were voted should contact its SSGA relationship manager.
+
+    
+
+ 
+ 
+
+State Street Global Advisors	  	A-6
+
+
+
+March 2018
+
+Managing Conflicts of Interest Arising From State Street Global Advisors’ Proxy Voting and Engagement Activity
+
+State Street Corporation has a comprehensive standalone Conflicts of Interest Policy and other policies that address a range of conflicts of interests identified. In addition, State Street Global Advisors (“SSGA”), the asset management business of State Street Corporation, maintains a conflicts register that identifies key conflicts and describes systems in place to mitigate the conflicts. This guidancei is designed to act in conjunction with related policies and practices employed by other groups within the organization. Further, they complement those policies and practices by providing specific guidance on managing the conflicts of interests that may arise through SSGA’s proxy voting and engagement activities.
+
+ 
+
+LOGO
+
+ 
+
+  	A-8	  	
+Table of Contents
+Managing Conflicts of Interest Arising From State Street Global Advisors’ Proxy Voting and Engagement Activity
+
+ 
+
+Managing Conflicts of Interest Related to Proxy Voting
+
+State Street Global Advisors (“SSGA”) has policies and procedures designed to prevent undue influence on SSGA’s voting activities that may arise from relationships between proxy issuers or companies and State Street Corporation (“STT”), State Street Global Advisors, SSGA affiliates, SSGA Funds or SSGA Fund affiliates.
+
+Protocols designed to help mitigate potential conflicts of interest include:
+
+ 
+
+•	 	Providing sole voting discretion to members of SSGA’s Asset Stewardship team. Members of the Asset Stewardship team may from time to time discuss views on proxy voting matters, company performance, strategy etc. with other STT or SSGA employees including portfolio managers, senior executives and relationship managers. However, final voting decisions are made solely by the Asset Stewardship team, in a manner that is consistent with the best interests of all clients, taking into account various perspectives on risks and opportunities with a view of maximizing the value of client assets;
+ 
+
+•	 	Exercising a singular vote decision for each ballot item regardless of our investment strategy;
+ 
+
+•	 	Prohibiting members of SSGA’s Asset Stewardship team from disclosing SSGA’s voting decision to any individual not affiliated with the proxy voting process prior to the meeting or date of written consent, as the case may be;
+ 
+
+•	 	Mandatory disclosure by members of the SSGA’s Asset Stewardship team, Global Proxy Review Committee (“PRC”) and Investment Committee (“IC”) of any personal conflict of interest (e.g., familial relationship with company management, serves as a director on the board of a listed company) to the Head of the Asset Stewardship team. Members are required to recuse themselves from any engagement or proxy voting activities related to the conflict;
+•	 	In certain instances, client accounts and/or SSGA pooled funds, where SSGA acts as trustee, may hold shares in STT or other SSGA affiliated entities, such as mutual funds affiliated with SSGA Funds Management, Inc. In general, SSGA will outsource any voting decision relating to a shareholder meeting of STT or other SSGA affiliated entities to independent outside third parties. Delegated third parties exercise vote decisions based upon SSGA’s Proxy Voting and Engagement Guidelines (“Guidelines”); and
+ 
+
+•	 	Reporting of voting guideline overrides, if any, to the PRC on a quarterly basis.
+In general, we do not believe matters that fall within the Guidelines and are voted consistently with the Guidelines present any potential conflicts, since the vote on the matter has effectively been determined without reference to the soliciting entity. However, where matters do not fall within the Guidelines or where we believe that voting in accordance with the Guidelines is unwarranted, we conduct an additional review to determine whether there is a conflict of interest. In circumstances where a conflict has been identified and either: (i) the matter does not fall clearly within the Guidelines; or (ii) SSGA determines that voting in accordance with such guidance is not in the best interests of its clients, the Head of the Asset Stewardship team will determine whether a Material Relationship exists. If so, the matter is referred to the PRC. The PRC then reviews the matter and determines whether a conflict of interest exists, and if so, how to best resolve such conflict. For example, the PRC may (i) determine that the proxy vote does not give rise to a conflict due to the issues presented, (ii) refer the matter to the IC for further evaluation or (iii) retain an independent fiduciary to determine the appropriate vote.
+
+ 
+ 
+
+State Street Global Advisors	  	A-9
+
+
+
+
+
+
+
+
+State Street Global Advisors’ (“SSGA”) North America Proxy Voting and Engagement Guidelinesi outline our expectations of companies listed on stock exchanges in the US and Canada. These guidelines complement and should be read in conjunction with SSGA’s Global Proxy Voting and Engagement Principles, which provide a detailed explanation of SSGA’s approach to voting and engaging with companies, and SSGA’s Conflict Mitigation Guidance.
+
+
+State Street Global Advisors’ (“SSGA”) North America Proxy Voting and Engagement Guidelines address areas including board structure, director tenure, audit related issues, capital structure, executive compensation, environmental, social and other governance-related issues of companies listed on stock exchanges in the US and Canada (“North America”). Principally, we believe the primary responsibility of the board of directors is to preserve and enhance shareholder value and protect shareholder interests. In order to carry out their primary responsibilities, directors have to undertake activities that range from setting strategy and overseeing executive management to monitoring the risks that arise from a company’s business, including risks related to sustainability issues. Further, good corporate governance necessitates the existence of effective internal controls and risk management systems, which should be governed by the board.
+
+When voting and engaging with companies in global markets, SSGA considers market specific nuances in the manner that we believe will most likely protect and promote the long-term economic value of client investments. SSGA expects companies to observe the relevant laws and regulations of their respective markets as well as country specific best practice guidelines and corporate governance codes. When we feel that a country’s regulatory requirements do not address some of the key philosophical principles that SSGA believes are fundamental to its global voting guidelines, we may hold companies in such markets to our global standards.
+
+In its analysis and research into corporate governance issues in North America, SSGA expects all companies to act in a transparent manner and provide detailed disclosure on board profiles, related-party transactions, executive compensation and other governance issues that impact shareholders’ long-term interests. Further, as a founding member of the Investor Stewardship Group (“ISG”), SSGA proactively monitors companies’ adherence to the Corporate Governance Principles for US listed companies. Consistent with the comply or explain expectations established by the principles, SSGA encourages companies to proactively disclose their level of compliance with the principles. In instances of non-compliance when companies cannot explain the nuances of their governance structure effectively, either publicly or through engagement, SSGA may vote against the independent board leader.
+
+SSGA’s Proxy Voting and Engagement Philosophy
+
+In our view, corporate governance and sustainability issues are an integral part of the investment process. The Asset Stewardship Team consists of investment professionals with expertise in corporate governance and company law, remuneration, accounting as well as environmental and social issues. SSGA has established robust corporate governance principles and practices that are backed with extensive analytical expertise to understand the complexities of the corporate governance landscape. SSGA engages with companies to provide insight on the principles and practices that drive our voting decisions. We also conduct proactive engagements to address significant shareholder concerns and environmental, social and governance (“ESG”) issues in a manner consistent with maximizing shareholder value.
+
+The team works alongside members of SSGA’s active investment teams; collaborating on issuer engagements and providing input on company specific fundamentals. SSGA is also a member of various investor associations that seek to address broader corporate governance related policy issues in North America.
+
+SSGA is a signatory to the United Nations Principles of Responsible Investment (“UNPRI”) and is compliant with the US Investor Stewardship Group Principles. We are committed to sustainable investing and are working to further integrate ESG principles into investment and corporate governance practices, where applicable and consistent with our fiduciary duty.
+
+Directors and Boards
+
+SSGA believes that a well constituted board of directors, with a good balance of skills, expertise and independence, provides the foundations for a well governed company. SSGA views board quality as a measure of director independence, director succession planning, board diversity, evaluations and refreshment, and company governance practices. SSGA votes for the election/re-election of directors on a case-by-case basis after considering various factors including board quality, general market practice and availability of information on director skills and expertise. In principle, SSGA believes independent directors are crucial to good corporate governance and help management establish sound corporate governance policies and practices. A sufficiently independent board will most effectively monitor management and perform oversight functions necessary to protect shareholder interests. Further, SSGA expects boards of Russell 3000 and TSX listed companies to have at least one female board member .
+
+Director related proposals include issues submitted to shareholders that deal with the composition of the board or with members of a corporation’s board of directors. In deciding which director nominee to support, SSGA considers numerous factors.
+
+Director Elections
+
+SSGA’s director election guideline focuses on companies’ governance profile to identify if a company demonstrates appropriate governance practices or if it exhibits negative governance practices. Factors SSGA considers when evaluating governance practices include, but are not limited to the following:
+
+ 
+
+•	 	Shareholder rights;
+ 
+
+•	 	Board independence; and
+ 
+
+•	 	Board structure.
+If a company demonstrates appropriate governance practices, SSGA believes a director should be classified as independent based on the relevant listing standards or local market practice standards. In such cases, the composition of the key oversight committees of a board should meet the minimum standards of independence. Accordingly, SSGA will vote against a nominee at a company with appropriate governance practices if the director is classified as non-independent under relevant listing standards or local market practice AND serves on a key committee of the board (compensation, audit, nominating or committees required to be fully independent by local market standards).
+
+Conversely, if a company demonstrates negative governance practices, SSGA believes the classification standards for director independence should be elevated. In such circumstances, we will evaluate all director nominees based on the following classification standards:
+
+ 
+
+•	 	Is the nominee an employee of or related to an employee of the issuer or its auditor;
+ 
+
+•	 	Does the nominee provide professional services to the issuer;
+ 
+
+•	 	Has the nominee attended an appropriate number of board meetings; or
+ 
+
+•	 	Has the nominee received non-board related compensation from the issuer.
+In the U.S. market where companies demonstrate negative governance practices, these stricter standards will apply not only to directors who are a member of a key committee but to all directors on the board as market practice permits. Accordingly, SSGA will vote against a nominee (with the exception of the CEO) where the board has inappropriate governance practices and is considered not independent based on the above independence criteria.
+
+Additionally, SSGA may withhold votes from directors based on the following:
+
+ 
+
+•	 	When overall average board tenure is excessive. In assessing excessive tenure, SSGA gives consideration to factors such as the preponderance of long tenured directors, board refreshment practices, and classified board structures;
+ 
+
+•	 	When directors attend less than 75% of board meetings without appropriate explanation or providing reason for their failure to meet the attendance threshold;
+ 
+
+•	 	CEOs of a public company who sit on more than three public company boards;
+ 
+
+•	 	Director nominees who sit on more than six public company boards;
+ 
+
+•	 	Directors of companies that have not been responsive to a shareholder proposal which received a majority shareholder support at the last annual or special meeting; consideration maybe given if management submits the proposal(s) on the ballot as a binding management proposal, recommending shareholders vote for the particular proposal(s);
+ 
+
+•	 	Directors of companies have unilaterally adopted/ amended company bylaws that negatively impact SSGA’s shareholder rights (such as fee-shifting, forum selection and exclusion service bylaws) without putting such amendments to a shareholder vote;
+ 
+
+•	 	Compensation committee members where there is a weak relationship between executive pay and performance over a five-year period;
+ 
+
+•	 	Audit committee members if non-audit fees exceed 50% of total fees paid to the auditors; and
+ 
+
+•	 	Directors who appear to have been remiss in their duties.
+
+
+Director Related Proposals
+
+SSGA generally votes for the following director related proposals:
+
+ 
+
+•	 	Discharge of board members’ duties, in the absence of pending litigation, regulatory investigation, charges of fraud or other indications of significant concern;
+ 
+
+•	 	Proposals to restore shareholders’ ability to remove directors with or without cause;
+ 
+
+•	 	Proposals that permit shareholders to elect directors to fill board vacancies; and
+ 
+
+•	 	Shareholder proposals seeking disclosure regarding the company, board, or compensation committee’s use of compensation consultants, such as company name, business relationship(s) and fees paid.
+SSGA generally votes against the following director related proposals:
+
+ 
+
+•	 	Requirements that candidates for directorships own large amounts of stock before being eligible to be elected;
+ 
+
+•	 	Proposals that relate to the “transaction of other business as properly comes before the meeting”, which extend “blank check” powers to those acting as proxy; and
+ 
+
+•	 	Proposals requiring two candidates per board seat.
+Majority Voting
+
+SSGA will generally support a majority vote standard based on votes cast for the election of directors.
+
+SSGA will generally vote to support amendments to bylaws that would require simple majority of voting shares (i.e. shares cast) to pass or repeal certain provisions.
+
+Annual Elections
+
+SSGA generally supports the establishment of annual elections of the board of directors. Consideration is given to the overall level of board independence and the independence of the key committees as well as whether there is a shareholders rights plan.
+
+Cumulative Voting
+
+SSGA does not support cumulative voting structures for the election of directors.
+
+Separation Chair/CEO
+
+SSGA analyzes proposals for the separation of Chair/CEO on a case-by-case basis taking into consideration numerous factors, including but not limited to, the appointment of and role played by a lead director, a company’s performance and the overall governance structure of the company.
+
+Proxy Access
+
+In general, SSGA believes that proxy access is a fundamental right and an accountability mechanism for all long-term shareholders. SSGA will consider proposals relating to Proxy Access on a case-by-case basis. SSGA will support shareholder proposals that set parameters to empower long-term shareholders while providing management the flexibility to design a process that is appropriate for the company’s circumstances.
+
+SSGA will review the terms of all other proposals and will support those proposals that have been introduced in the spirit of enhancing shareholder rights.
+
+Considerations include but are not limited to the following:
+
+ 
+
+•	 	The ownership thresholds and holding duration proposed in the resolution;
+ 
+
+•	 	The binding nature of the proposal;
+ 
+
+•	 	The number of directors that shareholders may be able to nominate each year;
+ 
+
+•	 	Company governance structure;
+ 
+
+•	 	Shareholder rights; and
+ 
+
+•	 	Board performance.
+Age/Term Limits
+
+Generally, SSGA will vote against age and term limits unless the company is found to have poor board refreshment and director succession practices and has a preponderance of non-executive directors with excessively long-tenures serving on the board.
+
+Approve Remuneration of Directors
+
+Generally, SSGA will support directors’ compensation, provided the amounts are not excessive relative to other issuers in the market or industry. In making our determination, we review whether the compensation is overly dilutive to existing shareholders.
+
+Indemnification
+
+Generally, SSGA supports proposals to limit directors’ liability and/or expand indemnification and liability protection if he or she has not acted in bad faith, gross negligence or reckless disregard of the duties involved in the conduct of his or her office.
+
+Classified Boards
+
+SSGA generally supports annual elections for the board of directors.
+
+Confidential Voting
+
+SSGA will support confidential voting.
+
+Board Size
+
+SSGA will support proposals seeking to fix the board size or designate a range for the board size and will vote against proposals that give management the ability to alter the size of the board outside of a specified range without shareholder approval.
+
+Audit Related Issues
+
+Ratifying Auditors and Approving Auditor Compensation
+
+SSGA supports the approval of auditors and auditor compensation provided that the issuer has properly disclosed audit and non-audit fees relative to market practice and the audit fees are not deemed excessive. SSGA deems audit fees to be excessive if the non-audit fees for the prior year constituted 50% or more of the total fees paid to the auditor. SSGA will support the disclosure of auditor and consulting relationships when the same or related entities are conducting both activities and will support the establishment of a selection committee responsible for the final approval of significant management consultant contract awards where existing firms are already acting in an auditing function.
+
+In circumstances where “other” fees include fees related to initial public offerings, bankruptcy emergence, and spin-offs, and the company makes public disclosure of the amount and nature of those fees which are determined to be an exception to the standard “non-audit fee” category, then such fees may be excluded from the non-audit fees considered in determining the ratio of non-audit to audit/audit-related fees/tax compliance and preparation for purposes of determining whether non-audit fees are excessive.
+
+SSGA will support the discharge of auditors and requirements that auditors attend the annual meeting of shareholders.1
+
+Capital Related Issues
+
+Capital structure proposals include requests by management for approval of amendments to the certificate of incorporation that will alter the capital structure of the company.
+
+The most common request is for an increase in the number of authorized shares of common stock, usually in conjunction with a stock split or dividend. Typically, requests that are not unreasonably dilutive or enhance the rights of common shareholders are supported. In considering authorized share proposals, the typical threshold for approval is 100% over current authorized shares. However, the threshold may be increased if the company offers a specific need or purpose (merger, stock splits, growth purposes, etc.). All proposals are evaluated on a case-by-case basis taking into account the company’s specific financial situation.
+
+Increase in Authorized Common Shares
+
+In general, SSGA supports share increases for general corporate purposes up to 100% of current authorized stock.
+
+SSGA supports increases for specific corporate purposes up to 100% of the specific need plus 50% of current authorized common stock for US and Canadian firms.
+
+When applying the thresholds, SSGA will also consider the nature of the specific need, such as mergers and acquisitions and stock splits.
+
+Increase in Authorized Preferred Shares
+
+SSGA votes on a case-by-case basis on proposals to increase the number of preferred shares.
+
+Generally, SSGA will vote for the authorization of preferred stock in cases where the company specifies the voting, dividend, conversion, and other rights of such stock and the terms of the preferred stock appear reasonable.
+
+SSGA will support proposals to create “declawed” blank check preferred stock (stock that cannot be used as a takeover defense). However, SSGA will vote against proposals to increase the number of blank check preferred stock authorized for issuance when no shares have been issued or reserved for a specific purpose.
+
+Unequal Voting Rights
+
+SSGA will not support proposals authorizing the creation of new classes of common stock with superior voting rights and will vote against new classes of preferred stock with unspecified voting, conversion, dividend distribution, and other rights. In addition, SSGA will not support capitalization changes that add “blank check” classes of stock (i.e. classes of stock with undefined voting rights) or classes that dilute the voting interests of existing shareholders. However, SSGA will support capitalization changes that eliminate other classes of stock and/or unequal voting rights.
+
+Mergers and Acquisitions
+
+Mergers or reorganizing the structure of a company often involve proposals relating to reincorporation, restructurings, liquidations, and other major changes to the corporation.
+
+Proposals that are in the best interests of the shareholders, demonstrated by enhancing share value or improving the effectiveness of the company’s operations, will be supported.
+
+In general, provisions that are not viewed as economically sound or are thought to be destructive to shareholders’ rights are not supported.
+
+SSGA will generally support transactions that maximize shareholder value. Some of the considerations include, but are not limited to the following:
+
+ 
+
+•	 	Offer premium;
+ 
+
+•	 	Strategic rationale;
+ 
+
+•	 	Board oversight of the process for the recommended transaction, including, director and/or management conflicts of interest;
+ 
+
+•	 	Offers made at a premium and where there are no other higher bidders; and
+ 
+
+•	 	Offers in which the secondary market price is substantially lower than the net asset value.
+SSGA may vote against a transaction considering the following:
+
+ 
+
+•	 	Offers with potentially damaging consequences for minority shareholders because of illiquid stock, especially in some non-US markets;
+ 
+
+•	 	Offers where we believe there is a reasonable prospect for an enhanced bid or other bidders; and
+•	 	At the time of voting, the current market price of the security exceeds the bid price.
+Anti–Takeover Issues
+
+Typically, these are proposals relating to requests by management to amend the certificate of incorporation or bylaws to add or delete a provision that is deemed to have an anti-takeover effect. The majority of these proposals deal with management’s attempt to add some provision that makes a hostile takeover more difficult or will protect incumbent management in the event of a change in control of the company.
+
+Proposals that reduce shareholders’ rights or have the effect of entrenching incumbent management will not be supported.
+
+Proposals that enhance the right of shareholders to make their own choices as to the desirability of a merger or other proposal are supported.
+
+Shareholder Rights Plans
+
+US: SSGA will support mandates requiring shareholder approval of a shareholder rights plans (“poison pill”) and repeals of various anti-takeover related provisions.
+
+In general, SSGA will vote against the adoption or renewal of a US issuer’s shareholder rights plan (“poison pill”).
+
+SSGA will vote for an amendment to a shareholder rights plan (“poison pill”) where the terms of the new plans are more favorable to shareholders’ ability to accept unsolicited offers (i.e. if one of the following conditions are met: (i) minimum trigger, flip-in or flip-over of 20%, (ii) maximum term of three years, (iii) no “dead hand,” “slow hand,” “no hand” or similar feature that limits the ability of a future board to redeem the pill, and (iv) inclusion of a shareholder redemption feature (qualifying offer clause), permitting ten percent of the shares to call a special meeting or seek a written consent to vote on rescinding the pill if the board refuses to redeem the pill 90 days after a qualifying offer is announced).
+
+Canada: SSGA analyzes proposals for shareholder approval of a shareholder rights plans (“poison pill”) on a case-by-case basis taking into consideration numerous factors, including but not limited to, whether it conforms to ‘new generation’ rights plans and the scope of the plan.
+
+Special Meetings
+
+SSGA will vote for shareholder proposals related to special meetings at companies that do not provide shareholders the right to call for a special meeting in their bylaws if:
+
+ 
+
+•	 	The company also does not allow shareholders to act by written consent; or
+ 
+
+•	 	The company allows shareholders to act by written consent but the ownership threshold for acting by written consent is set above 25% of outstanding shares.
+SSGA will vote for shareholder proposals related to special meetings at companies that give shareholders (with a minimum 10% ownership threshold) the right to call for a special meeting in their bylaws if:
+
+ 
+
+•	 	The current ownership threshold to call for a special meeting is above 25% of outstanding shares.
+SSGA will vote for management proposals related to special meetings.
+
+Written Consent
+
+SSGA will vote for shareholder proposals on written consent at companies if:
+
+ 
+
+•	 	The company does not have provisions in their bylaws giving shareholders the right to call for a special meeting; or
+ 
+
+•	 	The company allows shareholders the right to call for a special meeting but the current ownership threshold to call for a special meeting is above 25% of outstanding shares; and
+ 
+
+•	 	The company has a poor governance profile.
+SSGA will vote management proposals on written consent on a case-by-case basis.
+
+Super–Majority
+
+SSGA will generally vote against amendments to bylaws requiring super-majority shareholder votes to pass or repeal certain provisions. SSGA will vote for the reduction or elimination of super-majority vote requirements, unless management of the issuer was concurrently seeking to or had previously made such a reduction or elimination.
+
+Remuneration Issues
+
+Despite the differences among the types of plans and the awards possible there is a simple underlying philosophy that guides the analysis of all compensation plans; namely, are the terms of the plan designed to provide an incentive for executives and/or employees to align their interests with those of the shareholders and thus work toward enhancing shareholder value. Plans which benefit participants only when the shareholders also benefit are those most likely to be supported.
+
+Advisory Vote on Executive Compensation and Frequency
+
+SSGA believes executive compensation plays a critical role in aligning executives’ interest with shareholders’, attracting, retaining and incentivizing key talent, and ensuring positive correlation between the performance achieved by management and the benefits derived by shareholders. SSGA supports management proposals on executive compensation where there is a strong relationship between executive pay and performance over a five-year period. SSGA seeks adequate disclosure of different compensation elements, absolute and relative pay levels, peer selection and benchmarking, the mix of long term and short term incentives, alignment of pay structures with shareholder interests as well as with corporate strategy and performance. Further, shareholders should have the opportunity to assess whether pay structures and levels are aligned with business performance on an annual basis.
+
+In Canada, where advisory votes on executive compensation are not commonplace, SSGA will rely primarily on engagement to evaluate compensation plans.
+
+Employee Equity Award Plans
+
+SSGA considers numerous criteria when examining equity award proposals. Generally, SSGA does not vote against plans for lack of performance or vesting criteria. Rather, the main criteria that will result in a vote against an equity award plan are:
+
+Excessive voting power dilution To assess the dilutive effect, we divide the number of shares required to fully fund the proposed plan, the number of authorized but unissued shares and the issued but unexercised shares by the fully diluted share count. SSGA reviews that number in light of certain factors, including the industry of the issuer.
+
+Historical option grants Excessive historical option grants over the past three years. Plans that provide for historical grant patterns of greater than five to eight percent are generally not supported.
+
+Repricing SSGA will vote against any plan where repricing is expressly permitted. If a company has a history of repricing underwater options, the plan will not be supported.
+
+Other criteria include the following:
+
+ 
+
+•	 	Number of participants or eligible employees;
+ 
+
+•	 	The variety of awards possible; and
+ 
+
+•	 	The period of time covered by the plan.
+There are numerous factors that we view as negative, and together, may result in a vote against a proposal:
+
+ 
+
+•	 	Grants to individuals or very small groups of participants;
+ 
+
+•	 	“Gun-jumping” grants which anticipate shareholder approval of a plan or amendment;
+ 
+
+•	 	The power of the board to exchange “underwater” options without shareholder approval; this pertains to the ability of a company to reprice options, not the actual act of repricing described above;
+ 
+
+•	 	Below market rate loans to officers to exercise their options;
+ 
+
+•	 	The ability to grant options at less than fair market value;
+ 
+
+•	 	Acceleration of vesting automatically upon a change in control; and
+ 
+
+•	 	Excessive compensation (i.e. compensation plans which are deemed by SSGA to be overly dilutive).
+Share Repurchases If a company makes a clear connection between a share repurchase program and its intent to offset dilution created from option plans and the company fully discloses the amount of shares being repurchased, the voting dilution calculation may be adjusted to account for the impact of the buy back.
+
+Companies who do not (i) clearly state the intentions of any proposed share buy-back plan or (ii) disclose a definitive number of the shares to be bought back, (iii) specify the range of premium/discount to market price at which a company can repurchase shares and, (iv) disclose the time frame during which the shares will be bought back, will not have any such repurchase plan factored into the dilution calculation.
+
+162(m) Plan Amendments If a plan would not normally meet the SSGA criteria described above, but is primarily being amended to add specific performance criteria to be used with awards designed to qualify for performance-based exception from the tax deductibility limitations of Section 162(m) of the Internal Revenue Code, then SSGA will support the proposal to amend the plan.
+
+Employee Stock Option Plans
+
+SSGA generally votes for stock purchase plans with an exercise price of not less than 85% of fair market value. However, SSGA takes market practice into consideration.
+
+Compensation Related Items
+
+SSGA will generally support the following proposals:
+
+ 
+
+•	 	Expansions to reporting of financial or compensation-related information, within reason; and
+ 
+
+•	 	Proposals requiring the disclosure of executive retirement benefits if the issuer does not have an independent compensation committee.
+SSGA will generally vote against the following proposals:
+
+ 
+
+•	 	Retirement bonuses for non-executive directors and auditors.
+Miscellaneous/Routine Items
+
+SSGA generally supports the following miscellaneous/routine governance items:
+
+ 
+
+•	 	Reimbursement of all appropriate proxy solicitation expenses associated with the election when voting in conjunction with support of a dissident slate;
+ 
+
+•	 	Opting-out of business combination provision;
+ 
+
+•	 	Proposals that remove restrictions on the right of shareholders to act independently of management;
+ 
+
+•	 	Liquidation of the company if the company will file for bankruptcy if the proposal is not approved;
+ 
+
+•	 	Shareholder proposals to put option repricings to a shareholder vote;
+
+•	 	General updating of, or corrective amendments to, charter and bylaws not otherwise specifically addressed herein, unless such amendments would reasonably be expected to diminish shareholder rights (e.g. extension of directors’ term limits, amending shareholder vote requirement to amend the charter documents, insufficient information provided as to the reason behind the amendment);
+ 
+
+•	 	Change in corporation name;
+ 
+
+•	 	Mandates that amendments to bylaws or charters have shareholder approval;
+ 
+
+•	 	Management proposals to change the date, time, and/or location of the annual meeting unless the proposed change is unreasonable;
+ 
+
+•	 	Repeals, prohibitions or adoption of anti-greenmail provisions;
+ 
+
+•	 	Management proposals to implement a reverse stock split when the number of authorized shares will be proportionately reduced and proposals to implement a reverse stock split to avoid delisting; and
+ 
+
+•	 	Exclusive forum provisions.
+SSGA generally does not support the following miscellaneous/ routine governance items:
+
+ 
+
+•	 	Proposals asking companies to adopt full tenure holding periods for their executives;
+ 
+
+•	 	Reincorporation to a location that we believe has more negative attributes than its current location of incorporation;
+ 
+
+•	 	Shareholder proposals to change the date, time, and/or location of the annual meeting unless the current scheduling or location is unreasonable;
+ 
+
+•	 	Proposals to approve other business when it appears as a voting item;
+ 
+
+•	 	Proposals giving the board exclusive authority to amend the bylaws; and
+ 
+
+•	 	Proposals to reduce quorum requirements for shareholder meetings below a majority of the shares outstanding unless there are compelling reasons to support the proposal.
+Environmental and Social Issues
+
+As a fiduciary, we consider the financial and economic implications of environmental and social issues first and foremost. Environmental and social factors not only can have an impact on the reputation of companies; they may also represent significant operational risks and costs to business.
+
+Well-developed environmental and social management systems can also generate efficiencies and enhance productivity, both of which impact shareholder value in the long-term.
+
+SSGA encourages companies to be transparent about the environmental and social risks and opportunities they face and adopt robust policies and processes to manage such issues. In our view, companies that manage all risks and consider opportunities related to environmental and social issues are able to adapt faster to changes and appear to be better placed to achieve sustainable competitive advantage in the long term. Similarly, companies with good risk management systems, which include environmental and social policies, have a stronger position relative to their peers to manage risk and change, which could result in anything from regulation and litigation, physical threats (severe weather, climate change), economic trends as well as shifts in consumer behavior.
+
+In their public reporting, we expect companies to disclose information on relevant management tools and material environmental and social performance metrics. We support efforts by companies to try to demonstrate how sustainability fits into overall strategy, operations and business activities. SSGA’s team of analysts evaluates these risks on an issuer-by-issuer basis; understanding that environmental and social risks can vary widely depending on company industry, its operations, and geographic footprint.
+
+ 
+
+1 	
+Common for non-US issuers; request from the issuer to discharge from liability the directors or auditors with respect to actions taken by them during the previous year.
