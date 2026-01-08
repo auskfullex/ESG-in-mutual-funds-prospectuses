@@ -1,253 +1,54 @@
-PROXY VOTING GUIDELINES
-
-
-The Board of Trustees (the Board) of each Vanguard fund has adopted proxy voting procedures and guidelines to govern proxy voting by the fund. The Board has delegated responsibility for monitoring proxy voting activities to the Investment Stewardship Oversight Committee (the Committee), made up of senior officers of Vanguard and subject to the operating procedures and guidelines described below. The Committee reports directly to the Board. Vanguard is subject to these procedures and guidelines to the extent that they call for Vanguard to administer the voting process and implement the resulting voting decisions, and for these purposes the guidelines have also been approved by the Board of Directors of Vanguard.
-
-
-The overarching objective in voting is simple: to support proposals and director nominees that maximize the value of a fund’s investments—and those of fund shareholders—over the long term. Although the goal is simple, the proposals the funds receive are varied and frequently complex. As such, the guidelines adopted by the Board provide a rigorous framework for assessing each proposal. Under the guidelines, each proposal must be evaluated on its merits, based on the particular facts and circumstances as presented.
-
-For ease of reference, the procedures and guidelines often refer to all funds. However, our processes and practices seek to ensure that proxy voting decisions are suitable for individual funds. For most proxy proposals, particularly those involving corporate governance, the evaluation will result in the same position being taken across all of the funds and the funds voting as a block. In some cases, however, a fund may vote differently, depending upon the nature and objective of the fund, the composition of its portfolio, and other factors.
-
-The guidelines do not permit the Board to delegate voting responsibility to a third party that does not serve as a fiduciary for the funds. Because many factors bear on each decision, the guidelines incorporate factors the Committee should consider in each voting decision. A fund may refrain from voting some or all of its shares or vote in a particular way if doing so would be in the fund’s and its shareholders’ best interests. These circumstances may arise, for example, if the expected cost of voting exceeds the expected benefits of voting, if exercising the vote would result in the imposition of trading or other restrictions, or if a fund (or all Vanguard funds in the aggregate) were to own more than the permissible maximum percentage of a company’s stock (as determined by the company’s governing documents or by applicable law, regulation, or regulatory agreement).
-
-In evaluating proxy proposals, we consider information from many sources, including, but not limited to, the investment advisor for the fund, the management or shareholders of a company presenting a proposal, and independent proxy research services. We will give substantial weight to the recommendations of the company’s board, absent guidelines or other specific facts that would support a vote against management. In all cases, however, the ultimate decision rests with the members of the Committee, who are accountable to the fund’s Board.
-
-While serving as a framework, the following guidelines cannot contemplate all possible proposals with which a fund may be presented. In the absence of a specific guideline for a particular proposal (e.g., in the case of a transactional issue or contested proxy), the Committee will evaluate the issue and cast the fund’s vote in a manner that, in the Committee’s view, will maximize the value of the fund’s investment, subject to the individual circumstances of the fund.
-
-B-56
-
- 
-
-I.     	
-The Board of Directors
-
-A.     	
-Election of directors
-
-Good governance starts with a majority-independent board, whose key committees are made up entirely of independent directors. As such, companies should attest to the independence of directors who serve on the Compensation, Nominating, and Audit committees. In any instance in which a director is not categorically independent, the basis for the independence determination should be clearly explained in the proxy statement.
-
-Although the funds will generally support the board’s nominees, the following factors will be taken into account in determining each fund’s vote:
-
-Factors For Approval	Factors Against Approval
-Nominated slate results in board made up of a majority of	Nominated slate results in board made up of a majority of
-independent directors.	non-independent directors.
-All members of Audit, Nominating, and Compensation	Audit, Nominating, and/or Compensation committees include
-committees are independent of management.	non-independent members.
- 	Incumbent board member failed to attend at least 75% of meetings
- 	in the previous year.
- 	Actions of committee(s) on which nominee serves are inconsistent with
- 	other guidelines (e.g., excessive equity grants, substantial non-audit fees,
- 	lack of board independence).
- 	Actions of committee(s) on which nominee serves demonstrate serious
- 	failures of governance (e.g., unilaterally acting to significantly reduce
- 	shareholder rights, failure to respond to previous vote results for directors
- 	and shareholder proposals).
- 
- 
-B. Contested director elections	 
- 
-
-In the case of contested board elections, we will evaluate the nominees’ qualifications, the performance of the incumbent board, and the rationale behind the dissidents’ campaign, to determine the outcome that we believe will maximize shareholder value.
-
-C. Classified boards
-
-The funds will generally support proposals to declassify existing boards (whether proposed by management or shareholders), and will block efforts by companies to adopt classified board structures in which only part of the board is elected each year.
-
-D. Proxy access
-
-We believe that long-term investors may benefit from having proxy access, or the opportunity to place director nominees on a company’s proxy ballot. In our view, this improves shareholders’ ability to participate in director elections while potentially enhancing boards’ accountability and responsiveness to shareholders.
-
-That said, we also believe that proxy access provisions should be appropriately limited to avoid abuse by investors who lack a meaningful long-term interest in the company. As such, we generally believe that a shareholder or group of shareholders representing 3% of a company’s outstanding shares held for at least three years should be able to nominate directors for up to 20% of the seats on the board.
-
-We will review proposals regarding proxy access case by case. The funds will be most likely to support access provisions with the terms described above, but they may support different thresholds based on a company’s other governance provisions, as well as other relevant factors.
-
-II. Approval of Independent Auditors
-
-The relationship between the company and its auditors should be limited primarily to the audit, although it may include certain closely related activities that do not, in the aggregate, raise any appearance of impaired independence. The funds will generally support management’s recommendation for the ratification of the auditor, except in instances in which audit and audit-related fees make up less than 50% of the total fees paid by the company to the audit firm. We will
-
-B-57
-
- 
-
-evaluate on a case-by-case basis instances in which the audit firm has a substantial non-audit relationship with the company (regardless of its size relative to the audit fee) to determine whether independence has been compromised.
-
-III.     	
-Compensation Issues
-
-A.     	
-Stock-based compensation plans
-
-Appropriately designed stock-based compensation plans, administered by an independent committee of the board and approved by shareholders, can be an effective way to align the interests of long-term shareholders with the interests of management, employees, and directors. The funds oppose plans that substantially dilute their ownership interest in the company, provide participants with excessive awards, or have inherently objectionable structural features.
-
-An independent compensation committee should have significant latitude to deliver varied compensation to motivate the company’s employees. However, we will evaluate compensation proposals in the context of several factors (a company’s industry, market capitalization, competitors for talent, etc.) to determine whether a particular plan or proposal balances the perspectives of employees and the company’s other shareholders. We will evaluate each proposal on a case-by-case basis, taking all material facts and circumstances into account.
-
-The following factors will be among those considered in evaluating these proposals:
-
-Factors For Approval
-
-Company requires senior executives to hold a minimum amount
-of company stock (frequently expressed as a multiple of salary).
-Company requires stock acquired through equity awards to be
-held for a certain period of time.
-Compensation program includes performance-vesting awards,
-indexed options, or other performance-linked grants.
-Concentration of equity grants to senior executives is limited
-(indicating that the plan is very broad-based).
-Stock-based compensation is clearly used as a substitute for
-cash in delivering market-competitive total pay.
-
-B. Bonus plans
-
-Factors Against Approval
-
-Total potential dilution (including all stock-based plans) exceeds 15% of
-shares outstanding.
-Annual equity grants have exceeded 2% of shares outstanding.
-
-Plan permits repricing or replacement of options without
-shareholder approval.
-Plan provides for the issuance of reload options.
-
-Plan contains automatic share replenishment (evergreen) feature.
-
-Bonus plans, which must be periodically submitted for shareholder approval to qualify for deductibility under Section 162(m) of the IRC, should have clearly defined performance criteria and maximum awards expressed in dollars. Bonus plans with awards that are excessive, in both absolute terms and relative to a comparative group, generally will not be supported.
-
-C. Employee stock purchase plans
-
-The funds will generally support the use of employee stock purchase plans to increase company stock ownership by employees, provided that shares purchased under the plan are acquired for no less than 85% of their market value and that shares reserved under the plan amount to less than 5% of the outstanding shares.
-
-D. Advisory votes on executive compensation (Say on Pay)
-
-In addition to proposals on specific equity or bonus plans, the funds are required to cast advisory votes approving many companies’ overall executive compensation plans (so-called Say on Pay votes). In evaluating these proposals, we consider a number of factors, including the amount of compensation that is at risk, the amount of equity-based compensation that is linked to the company’s performance, and the level of compensation as compared to industry peers. The funds will generally support pay programs that demonstrate effective linkage between pay and performance over time and that provide compensation opportunities that are competitive relative to industry peers. On the other hand, pay programs in which significant compensation is guaranteed or insufficiently linked to performance will be less likely to earn our support.
-
-E. Executive severance agreements (golden parachutes)
-
-Although executives’ incentives for continued employment should be more significant than severance benefits, there are instances—particularly in the event of a change in control—in which severance arrangements may be appropriate.
-
-B-58
-
- 
-
-Severance benefits payable upon a change of control AND an executive’s termination (so-called “double trigger” plans) are generally acceptable to the extent that benefits paid do not exceed three times salary and bonus. Arrangements in which the benefits exceed three times salary and bonus should be justified and submitted for shareholder approval. We do not generally support guaranteed severance absent a change in control or arrangements that do not require the termination of the executive (so-called “single trigger” plans).
-
-IV. Corporate Structure and Shareholder Rights
-
-The exercise of shareholder rights, in proportion to economic ownership, is a fundamental privilege of stock ownership that should not be unnecessarily limited. Such limits may be placed on shareholders’ ability to act by corporate charter or by-law provisions, or by the adoption of certain takeover provisions. In general, the market for corporate control should be allowed to function without undue interference from these artificial barriers.
-
-The funds’ positions on a number of the most commonly presented issues in this area are as follows:
-
-A.     	
-Shareholder rights plans (poison pills)
-
-A     	
-company’s adoption of a so-called poison pill effectively limits a potential acquirer’s ability to buy a controlling interest
-
-without the approval of the target’s board of directors. Such a plan, in conjunction with other takeover defenses, may serve to entrench incumbent management and directors. However, in other cases, a poison pill may force a suitor to negotiate with the board and result in the payment of a higher acquisition premium.
-
-In general, shareholders should be afforded the opportunity to approve shareholder rights plans within a year of their adoption. This provides the board with the ability to put a poison pill in place for legitimate defensive purposes, subject to subsequent approval by shareholders. In evaluating the approval of proposed shareholder rights plans, we will consider the following factors:
-
-Factors For Approval
-
-Plan is relatively short term (3-5 years).
-Plan requires shareholder approval for renewal.
-Plan incorporates review by a committee of independent
-directors at least every three years (so-called TIDE provisions).
-Ownership trigger is reasonable (15-20%).
-Highly independent, non-classified board.
-Plan includes permitted-bid/qualified-offer feature (chewable
-pill) that mandates a shareholder vote in certain situations.
-
-B. Increase in authorized shares
-
-Factors Against Approval
-
-Plan is long term (>5 years).
-Renewal of plan is automatic or does not require shareholder approval.
-Board with limited independence.
-
-Ownership trigger is less than 15%.
-Classified board.
-
-The funds are supportive of companies seeking to increase authorized share amounts that do not potentially expose shareholders to excessive dilution. We will generally approve increases of up to 50% of the current share authorization, but will also consider a company’s specific circumstances and market practices.
-
-C. Cumulative voting
-
-The funds are generally opposed to cumulative voting under the premise that it allows shareholders a voice in director elections that is disproportionate to their economic investment in the corporation.
-
-D. Supermajority vote requirements
-
-The funds support shareholders’ ability to approve or reject matters presented for a vote based on a simple majority. Accordingly, the funds will support proposals to remove supermajority requirements and oppose proposals to impose them.
-
-E. Right to call meetings and act by written consent
-
-The funds support shareholders’ right to call special meetings of the board (for good cause and with ample representation) and to act by written consent. The funds will generally vote for proposals to grant these rights to shareholders and against proposals to abridge them.
-
-B-59
-
- 
-
-F. Confidential voting
-
-The integrity of the voting process is enhanced substantially when shareholders (both institutions and individuals) can vote without fear of coercion or retribution based on their votes. As such, the funds support proposals to provide confidential voting.
-
-G. Dual classes of stock
-
-We are opposed to dual class capitalization structures that provide disparate voting rights to different groups of shareholders with similar economic investments. We will oppose the creation of separate classes with different voting rights and will support the dissolution of such classes.
-
-V. Corporate and Social Policy Issues
-
-
-We vote case by case on all environmental and social proposals. We evaluate these resolutions in the context of our view that a company’s board has ultimate responsibility for providing effective ongoing oversight of relevant sector- and company-specific risks, including those related to environmental and social matters. We evaluate each proposal on its merits and support those where we believe there is a logically demonstrable linkage between the specific proposal and long-term shareholder value. Some of the factors considered when evaluating these proposals include the materiality of the issue, the quality of the current disclosure and business practices, and any progress by the company toward the adoption of best practices and/or industry norms.
-
-
-VI. Voting in Foreign Markets
-
-Corporate governance standards, disclosure requirements, and voting mechanics vary greatly among the markets outside the United States in which the funds may invest. Each fund’s votes will be used, where applicable, to advocate for improvements in governance and disclosure by each fund’s portfolio companies. We will evaluate issues presented to shareholders for each fund’s foreign holdings in the context with the guidelines described above, as well as local market standards and best practices. The funds will cast their votes in a manner believed to be philosophically consistent with these guidelines, while taking into account differing practices by market. In addition, there may be instances in which the funds elect not to vote, as described below.
-
-Many foreign markets require that securities be “blocked” or reregistered to vote at a company’s meeting. Absent an issue of compelling economic importance, we will generally not subject the fund to the loss of liquidity imposed by these requirements.
-
-The costs of voting (e.g., custodian fees, vote agency fees) in foreign markets may be substantially higher than for U.S. holdings. As such, the fund may limit its voting on foreign holdings in instances in which the issues presented are unlikely to have a material impact on shareholder value.
-
-VII. Voting Shares of a Company that has an Ownership Limitation
-
-Certain companies have provisions in their governing documents that restrict stock ownership in excess of a specified limit. Typically, these ownership restrictions are included in the governing documents of real estate investment trusts, but may be included in other companies’ governing documents.
-
-A company’s governing documents normally allow the company to grant a waiver of these ownership limits, which would allow a fund (or all Vanguard-advised funds) to exceed the stated ownership limit. Sometimes a company will grant a waiver without restriction. From time to time, a company may grant a waiver only if a fund (or funds) agrees to not vote the company’s shares in excess of the normal specified limit. In such a circumstance, a fund may refrain from voting shares if owning the shares beyond the company’s specified limit is in the best interests of the fund and its shareholders.
-
-In addition, applicable law may require prior regulatory approval to permit ownership of certain regulated issuer’s voting securities above certain limits or may impose other restrictions on owners of more than a certain percentage of a regulated issuer’s voting shares. The Board has authorized the funds to vote shares above these limits in the same proportion as votes cast by the issuer’s entire shareholder base (i.e., mirror vote) or to refrain from voting excess shares if mirror voting is not practicable. For example, rules administered by the Board of Governors of the Federal Reserve System (the FRB) generally require that a person seeking to own more than 10% of a bank regulated by the FRB seek
-
-B-60
-
- 
-
-prior approval. Vanguard has obtained regulatory approval that allows Vanguard funds to own up to 15% of a class of a bank’s outstanding voting shares without seeking prior regulatory approval, provided the funds’ shares in excess of 10% are mirror voted or not voted at all.
-
-These ownership limits may be applied at the individual fund level, across all Vanguard-advised funds, or across all Vanguard funds, regardless of whether they are advised by Vanguard.
-
-VIII. Voting on a Fund’s Holdings of Other Vanguard Funds
-
+Proxy Voting
+I. Proxy Voting Policies
+Each Vanguard fund advised by Vanguard retains the authority to vote proxies received with respect to the shares of equity securities held in a portfolio advised by Vanguard. The Board of Trustees of the Vanguard-advised funds (the Board) has adopted proxy voting procedures and guidelines to govern proxy voting for each portfolio retaining proxy voting authority, which are summarized in Appendix A.
+Vanguard has entered into agreements with various state, federal, and non-U.S. regulators and with certain issuers that limit the amount of shares that the funds may vote at their discretion for particular securities. For these securities, the funds are able to vote a limited portion of the shares at their discretion. Any additional shares generally are voted in the same proportion as votes cast by the issuer’s entire shareholder base (i.e., mirror voted), or the fund is not permitted to vote such shares. Further, the Board has adopted policies that will result in certain funds mirror voting a higher proportion of the shares they own in a regulated issuer in order to permit certain other funds (generally advised by managers not affiliated with Vanguard) to mirror vote none, or a lower proportion, of their shares in such regulated issuer.
+II. Securities Lending
+There may be occasions when Vanguard needs to restrict lending of and/or recall securities that are out on loan in order to vote the full position at a shareholder meeting. For the funds managed by Vanguard, Vanguard has processes to monitor securities on loan and to evaluate any circumstances that may require it to restrict and/or attempt to recall the security based on the criteria set forth in Appendix A.
+To obtain a free copy of a report that details how the funds voted the proxies relating to the portfolio securities held by the funds for the prior 12-month period ended June 30, log on to vanguard.com or visit the SEC’s website at sec.gov.
+Financial Statements
+Each Fund’s Financial Statements for the fiscal year ended December 31, 2021, appearing in the Funds' 2021 Annual Report to Shareholders, and the reports thereon of PricewaterhouseCoopers LLP, an independent registered public accounting firm, also appearing therein, are incorporated by reference into this Statement of Additional Information. For a more complete discussion of each Fund’s performance, please see the Funds' Annual and Semiannual Reports to Shareholders, which may be obtained without charge.
+Appendix A
+Summary of the Vanguard-Advised Funds Proxy Voting Policy
+Each Vanguard fund advised by Vanguard retains authority to vote proxies received with respect to the shares of equity securities held in a portfolio advised by Vanguard. The Board of Trustees (the Board) for the Vanguard-advised funds has adopted proxy voting procedures and guidelines to govern proxy voting for each portfolio retaining proxy voting authority.
+The Investment Stewardship Oversight Committee (the Committee), comprised primarily of fund officers and subject to the procedures described below, oversees the Vanguard-advised funds' proxy voting. The Committee reports directly to the Board. Vanguard is subject to these procedures and the proxy voting policies to the extent that they call for Vanguard to administer the voting process and implement the resulting voting decisions, and for these purposes the voting policies have also been approved by the Board of Directors of Vanguard.
+The voting principles and policies adopted by the Board provide a framework for assessing each proposal and seek to ensure that each vote is cast in the best interests of each fund. Under the voting policies, each proposal is evaluated on its merits, based on the particular facts and circumstances as presented. For more information on the funds' proxy voting policies, please visit about.vanguard.com/investment-stewardship.
+I. Investment Stewardship Team
+The Investment Stewardship Team administers the day-to-day operation of the funds' proxy voting process, overseen by the Committee. The Investment Stewardship Team performs the following functions: (1) managing and conducting
+B-41
+due diligence of proxy voting vendors; (2) reconciling share positions; (3) analyzing proxy proposals using factors described in the voting policies; (4) determining and addressing potential or actual conflicts of interest that may be presented by a particular proxy; and (5) voting proxies. The Investment Stewardship Team also prepares periodic and special reports to the Board, and proposes amendments to the procedures and voting policies.
+II. Investment Stewardship Oversight Committee
+The Board, including a majority of the independent trustees, appoints the members of the Committee (which is comprised primarily of fund officers). The Committee works with the Investment Stewardship Team to provide reports and other guidance to the Board regarding proxy voting by the funds. The Committee has an obligation to exercise its decision-making authority in accordance with the Board’s instructions as set forth in the funds’ proxy voting procedures and voting policies and subject to the fiduciary standards of good faith, fairness, and Vanguard's Code of Ethics. The Committee may advise the Investment Stewardship Team on how to best apply the Board’s instructions as set forth in the voting policies or refer the matter to the Board, which has ultimate decision-making authority for the funds. The Board reviews the procedures and voting policies annually and modifies them from time to time upon the recommendation of the Committee and in consultation with the Investment Stewardship Team.
+III. Proxy Voting Principles
+Vanguard's investment stewardship activities are grounded in four principles of good governance:
+1) Board composition: We believe good governance begins with a great board of directors. Our primary interest is to ensure that the individuals who represent the interests of all shareholders are independent, committed, capable, and appropriately experienced.
+2) Oversight of strategy and risk: We believe that boards are responsible for effective oversight of a company's long-term strategy and any relevant and material risks.
+3) Executive compensation: We believe that performance-linked compensation (or remuneration) policies and practices are fundamental drivers of sustainable, long-term value.
+4) Governance structures: We believe that companies should have in place governance structures to ensure that boards and management serve in the best interests of the shareholders they represent.
+IV. Evaluation of Proxies
+For ease of reference, the procedures and guidelines often refer to all funds. However, the processes and practices seek to ensure that proxy voting decisions are suitable for individual funds. For most proxy proposals, particularly those involving corporate governance, the evaluation could result in the funds having a common interest in the matter and, accordingly, each fund casting votes in the same manner. In other cases, however, a fund may vote differently from other funds if doing so is in the best interest of the individual fund.
+The voting policies do not permit the Board to delegate voting discretion to a third party that does not serve as a fiduciary for the funds. Because many factors bear on each decision, the voting policies incorporate factors that should be considered in each voting decision. A fund may refrain from voting some or all of its shares or vote in a particular way if doing so would be in the fund's and its shareholders' best interests. These circumstances may arise, for example, if the expected cost of voting exceeds the expected benefits of voting, if exercising the vote would result in the imposition of trading or other restrictions, or if a fund (or all Vanguard funds in the aggregate) were to own more than the permissible maximum percentage of a company's stock (as determined by the company's governing documents or by applicable law, regulation, or regulatory agreement).
+In evaluating proxy proposals, we consider information from many sources, which could include, but is not limited to, an investment advisor unaffiliated with Vanguard that has investment and proxy voting authority with respect to Vanguard funds that hold shares in the applicable company, the management or shareholders of a company presenting a proposal, and independent proxy research services. Additionally, data and recommendations from proxy advisors serve as one of many inputs into our research process. The funds may utilize automated voting for matters that are clearly addressed by the fund's procedures and voting policies.
+B-42
+While serving as a framework, the voting policies cannot contemplate all possible proposals with which a fund may be presented. In the absence of a specific guideline for a particular proposal (e.g., in the case of a transactional issue or contested proxy), the Investment Stewardship Team, under the supervision of the Committee, will evaluate the matter and cast the fund's vote in a manner that is in the fund's best interest, subject to the individual circumstances of the fund.
+V. Conflicts of Interest
+Vanguard takes seriously its commitment to avoid potential conflicts of interest. Vanguard funds invest in thousands of publicly listed companies worldwide. Those companies may include clients, potential clients, vendors, or competitors. Some companies may employ Vanguard trustees, former Vanguard executives, or family members of Vanguard personnel who have direct involvement in Vanguard's Investment Stewardship program.
+Vanguard's approach to mitigating conflicts of interest begins with the funds' proxy voting procedures. The procedures require that voting personnel act as fiduciaries, and must conduct their activities at all times in accordance with the following standards: (i) fund shareholders' interests come first; (ii) conflicts of interest must be avoided; (iii) and compromising situations must be avoided.
+We maintain an important separation between Vanguard's Investment Stewardship Team and other groups within Vanguard that are responsible for sales, marketing, client service, and vendor/partner relationships. Proxy voting personnel are required to disclose potential conflicts of interest, and must recuse themselves from all voting decisions and engagement activities in such instances. In certain circumstances, Vanguard may refrain from voting shares of a company, or may engage an independent third-party fiduciary to vote proxies.
+Each externally managed fund has adopted the proxy voting guidelines of its advisor(s) and votes in accordance with the external advisors' guidelines and procedures. Each advisor has its own procedures for managing conflicts of interest in the best interests of fund shareholders.
+VI. Environmental and Social Proposals
+Proposals in this category, initiated primarily by shareholders, typically request that a company enhance its disclosure or amend certain business practices. These resolutions are evaluated in the context of the general corporate governance principle that a company's board has ultimate responsibility for providing effective ongoing oversight of relevant sector- and company-specific risks, including those related to environmental and social matters. Each proposal is evaluated on its merits and supported when there is a logically demonstrable linkage between the specific proposal and long-term shareholder value of the company. Some of the factors considered when evaluating these proposals include the materiality of the issue, the quality of the current disclosures/business practices, and any progress by the company toward the adoption of best practices and/or industry norms.
+VII. Voting in Markets Outside the United States
+Corporate governance standards, disclosure requirements, and voting mechanics vary greatly among the markets outside the United States in which the funds may invest. Each fund’s votes will be used, where applicable, to support improvements in governance and disclosure by each fund’s portfolio companies. Matters presented by non-U.S. portfolio companies will be evaluated in the foregoing context, as well as in accordance with local market standards and best practices. Votes are cast for each fund in a manner philosophically consistent with the voting policies, taking into account differing practices by market.
+In many other markets, voting proxies will result in a fund being prohibited from selling the shares for a period of time due to requirements known as “share-blocking” or reregistration. Generally, the value of voting is unlikely to outweigh the loss of liquidity imposed by these requirements on the funds. In such instances, the funds will generally abstain from voting.
+The costs of voting (e.g., custodian fees, vote agency fees) in other markets may be substantially higher than for U.S. holdings. As such, the fund may limit its voting on foreign holdings in instances in which the issues presented are unlikely to have a material impact on shareholder value.
+B-43
+VIII. Voting Shares of a Company Subject to an Ownership Limitation
+Certain companies have provisions in their governing documents or other agreements that restrict stock ownership in excess of a specified limit. Typically, these ownership restrictions are included in the governing documents of real estate investment trusts, but may be included in other companies' governing documents. A company's governing documents normally allow the company to grant a waiver of these ownership limits, which would allow a fund to exceed the stated ownership limit. Sometimes a company will grant a waiver without restriction. From time to time, a company may grant a waiver only if a fund (or funds) agrees to not vote the company's shares in excess of the normal specified limit. In such a circumstance, a fund may refrain from voting shares if owning the shares beyond the company's specified limit is in the best interests of the fund and its shareholders.
+In addition, applicable law may require prior regulatory approval to permit ownership of certain regulated issuers’ voting securities above certain limits or may impose other restrictions on owners of more than a certain percentage of a regulated issuer's voting shares. The Board has authorized the funds to vote shares above these limits in the same proportion as votes cast by the issuer's entire shareholder base (i.e., mirror vote), or to refrain from voting excess shares. Further, the Board has adopted policies that will result in certain funds mirror voting a higher proportion of the shares they own in a regulated issuer in order to permit certain other funds (generally advised by managers not affiliated with Vanguard) to mirror vote none, or a lower proportion, of their shares in such regulated issuer.
+IX. Voting on a Fund's Holdings of Other Vanguard Funds
 Certain Vanguard funds (owner funds) may, from time to time, own shares of other Vanguard funds (underlying funds). If an underlying fund submits a matter to a vote of its shareholders, votes for and against such matters on behalf of the owner funds will be cast in the same proportion as the votes of the other shareholders in the underlying fund.
-
-
-IX. Investment Stewardship
-
-The Board has delegated the day-to-day operation of the funds’ proxy voting process to the Investment Stewardship team (Investment Stewardship), which the Committee oversees. Although most votes will be determined, subject to the individual circumstances of each fund, by reference to the guidelines as separately adopted by each of the funds, there may be circumstances when Investment Stewardship will refer proxy issues to the Committee for consideration. In addition, at any time, the Board has the authority to vote proxies, when, at the Board’s or the Committee’s discretion, such action is warranted.
-
-Investment Stewardship performs the following functions: (1) managing and conducting due diligence of proxy voting vendors; (2) reconciling share positions; (3) analyzing proxy proposals using factors described in the guidelines; (4) determining and addressing potential or actual conflicts of interest that may be presented by a particular proxy; and (5) voting proxies. Investment Stewardship also prepares periodic and special reports to the Board, and any proposed amendments to the procedures and guidelines.
-
-X. The Investment Stewardship Oversight Committee
-
-
-The Board, including a majority of the independent trustees, appoints the members of the Committee who are senior officers of Vanguard.
-
-The Committee does not include anyone whose primary duties include external client relationship management or sales. This clear separation between the proxy voting and client relationship functions is intended to eliminate any potential conflict of interest in the proxy voting process. In the unlikely event that a member of the Committee believes he or she might have a conflict of interest regarding a proxy vote, that member must recuse himself or herself from the committee meeting at which the matter is addressed, and not participate in the voting decision.
-
-
-The Committee works with Investment Stewardship to provide reports and other guidance to the Board regarding proxy voting by the funds. The Committee has an obligation to conduct its meetings and exercise its decision-making authority subject to the fiduciary standards of good faith, fairness, and Vanguard’s Code of Ethics. The Committee shall authorize proxy votes that the Committee determines, at its sole discretion, to be in the best interests of each fund’s shareholders. In determining how to apply the guidelines to a particular factual situation, the Committee may not take into account any interest that would conflict with the interest of fund shareholders in maximizing the value of their investments.
-
-
-The Board may review these procedures and guidelines and modify them from time to time. A summary of the procedures and guidelines is available on Vanguard’s website at vanguard.com.
-
-You may obtain a free copy of a report that details how the funds voted the proxies relating to the portfolio securities held by the funds for the prior 12-month period ended June 30 by logging on to Vanguard’s website at vanguard.com or the SEC’s website at www.sec.gov.
-
-B-61
+X. Securities Lending
+There may be occasions when Vanguard needs to restrict lending of and/or recall securities that are out on loan in order to vote in a shareholder meeting. Vanguard has processes to monitor securities on loan and to evaluate any circumstances that may require us to restrict and/or recall the stock. In making this decision, we consider:
+◾ The subject of the vote and whether, based on our knowledge and experience, we believe the topic is potentially material to the corporate governance and/or long-term performance of the company;
+◾ The Vanguard funds' individual and/or aggregate equity investment in a company, and whether we estimate that voting Vanguard funds' shares would affect the shareholder meeting outcome; and
+◾ The long-term impact to our fund shareholders, evaluating whether we believe the benefits of voting a company's shares would outweigh the benefits of stock lending revenues in a particular instance.
